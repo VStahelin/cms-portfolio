@@ -22,7 +22,8 @@ Example of the generated structure:
         "protile_photo_2.jpg": "https://vstahelin.github.io/cms-portfolio/images/protile_photo_2.jpg"
     },
     "map_generator.py": "https://vstahelin.github.io/cms-portfolio/map_generator.py",
-    "README.md": "https://vstahelin.github.io/cms-portfolio/README.md"
+    "README.md": "https://vstahelin.github.io/cms-portfolio/README.md",
+    "site_map": "https://vstahelin.github.io/cms-portfolio/site_map.json"
 }
 ```
 

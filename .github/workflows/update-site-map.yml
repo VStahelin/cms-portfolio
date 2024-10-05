@@ -27,17 +27,18 @@ jobs:
         python map_generator.py
 
     - name: Check if site_map.json has changed
+      id: check_changes
       run: |
-        if cmp --silent site_map.json site_map_existing.json; then
-          echo "site_map.json has not changed, skipping commit."
-          exit 0
+        if git diff --quiet site_map.json; then
+          echo "site_map.json has not changed."
+          echo "::set-output name=changed::false"
         else
-          echo "site_map.json has changed, proceeding to commit."
+          echo "site_map.json has changed."
+          echo "::set-output name=changed::true"
         fi
-      continue-on-error: true
 
     - name: Commit and push changes if site_map.json is modified
-      if: success()
+      if: steps.check_changes.outputs.changed == 'true'
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions"
