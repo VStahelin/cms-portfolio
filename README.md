@@ -6,8 +6,9 @@ This project uses **GitHub Pages** to host the portfolio content, with an automa
 
 The `site_map.json` file maps the project's resources as follows:
 
-- **data**: JSON files that contain structured data.
+- **data**: JSON files that contain structured data, including `site_map.json`.
 - **images**: Image resources such as `.png`, `.jpg`, `.jpeg`, and `.gif`.
+- **scripts**: Contains the Python script used to generate the `site_map.json`.
 - Other files are listed directly in the root of the structure.
 
 Example of the generated structure:
@@ -32,7 +33,7 @@ Example of the generated structure:
 ## How It Works
 
 - Whenever a push is made to the main branch, a **GitHub Action** runs to update the `site_map.json` file. This file contains URLs pointing to the files hosted on the GitHub Pages site.
-- The script responsible for generating the map can be found in the repository as `map_generator.py`.
+- The script responsible for generating the map can be found in the repository as `scripts/map_generator.py`.
 
 ## Usage
 
@@ -43,7 +44,7 @@ Example of the generated structure:
    
 2. Run the script manually (optional):
     ```bash
-    python map_generator.py
+    python scripts/map_generator.py
     ```
 
 3. The `site_map.json` file will automatically update on new pushes, but you can run the script locally to check the structure.
