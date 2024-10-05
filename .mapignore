@@ -10,3 +10,4 @@ build/
 .github/
 .idea
 .gitignore
+site_map.json

@@ -26,7 +26,6 @@ def generate_json_structure(base_url, root_dir, ignore_patterns):
     structure = {
         "data": {},
         "images": {},
-        "site_map.json": f"{base_url}/site_map.json",
     }
 
     for dirpath, dirnames, filenames in os.walk(root_dir):
@@ -58,7 +57,7 @@ def main():
     ignore_patterns = load_mapignore(root_dir)
 
     json_structure = generate_json_structure(base_url, root_dir, ignore_patterns)
-
+    json_structure["site_map"] = f"{base_url}/site_map.json"
     with open('site_map.json', 'w') as json_file:
         json.dump(json_structure, json_file, indent=4)
 
