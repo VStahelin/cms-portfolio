@@ -1,0 +1,279 @@
+{
+    "about_me": {
+      "name": "Vitor Stähelin",
+      "title": "Full-Stack Engineer",
+      "summary": "Results-driven Full-Stack Developer with over 6 years of experience specializing in Python. Expertise in creating scalable, secure, and efficient solutions using Python, JavaScript, Django, React, Gatsby, and React Native. Proven track record in developing OTA platforms from scratch, integrating APIs, and implementing payment gateways. Experienced in blockchain Proof of Concepts (POCs) with Stellar network and in developing IoT and embedded systems.",
+      "short_summary": "Full-Stack Developer with 6+ years of experience in Python, JavaScript, and frameworks like Django and React. Skilled in building scalable solutions, API integrations, and payment systems. Background in blockchain POCs and IoT/embedded systems.",
+      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg",
+      "contact": {
+        "email": "vitor@stahelin.dev",
+        "linkedin": "https://www.linkedin.com/in/vitorjosestahelin/",
+        "github": "https://github.com/VStahelin",
+        "location": "Florianópolis, SC"
+      },
+      "certifications": [
+        {
+          "name": "Django Certification - Alura",
+          "key_words": ["Django", "Python", "TDD", "Pytest"],
+          "link": "https://cursos.alura.com.br/degree/certificate/b1a3f390-6e3e-434f-b5b5-a119c9fcb1a8",
+          "date": "01-07-2021"
+        },
+        {
+          "name": "Python Certification - Alura",
+          "key_words": ["Python", "Pytest"],
+          "link": "https://cursos.alura.com.br/degree/certificate/204d2140-88f6-4d66-8202-b3dceb357c56",
+          "date": "01-05-2020"
+        },
+        {
+          "name": "TypeScript Certification - Alura",
+          "key_words": ["TypeScript", "JavaScript", "Node.Js"],
+          "link": "https://cursos.alura.com.br/degree/certificate/15a20fb3-589c-4346-8836-484f0fa0da65",
+          "date": "01-07-2022"
+        },
+        {
+          "name": "Raspberry Pi Certification - Alura",
+          "key_words": ["Raspberry Pi", "Iot", "Python"],
+          "link": "https://cursos.alura.com.br/degree/certificate/82dcb31d-1733-4bf3-b80b-80cd68d2ce0f",
+          "date": "01-07-2020"
+        },
+        {
+          "name": "Django REST Framework Certification - Alura",
+          "key_words": [
+            "Django REST Framework",
+            "Python",
+            "Swagger API",
+            "Pytest",
+            "Api Rest",
+            "Django"
+          ],
+          "link": "https://cursos.alura.com.br/degree/certificate/8ae7ec04-6c59-464f-92c0-8ea64a516da1",
+          "date": "01-03-2022"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor's degree in Information Systems",
+          "institution": "Unisul - Universidade do Sul de Santa Catarina",
+          "status": "Unfinished",
+          "graduation_date": "Jay 2023"
+        },
+        {
+          "degree": "Technician in Infrastructure and Programming",
+          "institution": "SENAI/SC",
+          "graduation_date": "Dec 2017"
+        },
+        {
+          "degree": "Technician in General Computer Programming",
+          "institution": "SENAI/SC",
+          "graduation_date": "Dec 2015"
+        }
+      ],
+      "soft_skills": [
+        "Problem-Solving",
+        "Agile & Scrum Methodologies",
+        "Team Leadership",
+        "JIRA",
+        "People Management",
+        "Communication"
+      ]
+    },
+    "professional_experience": [
+      {
+        "title": "Senior Full-Stack Software Developer",
+        "company": "Zarpo",
+        "location": "São Paulo, SP",
+        "dates": "Jan 2023 – Present",
+        "responsibilities": [
+          "Develop and maintain the new OTA platform using Django with Python and Django REST Framework (DRF).",
+          "Integrate APIs from hotel providers like Omnibees, payment APIs like PagBank, and the consolidating airline booking API Envision.",
+          "Assist in creating and developing the new R&D area, applying agile methodologies (Scrum and Kanban), managing and prioritizing tasks for other developers, establishing development standards, applying clean code principles, and designing software architecture.",
+          "Ensure the platform's security and scalability through effective use of Django and DRF."
+        ],
+        "key_words": [
+          "Python",
+          "Django REST Framework",
+          "JavaScript",
+          "Linux",
+          "AWS services",
+          "Agile",
+          "Scrum",
+          "Kanban",
+          "People Management",
+          "Api Rest"
+        ]
+      },
+      {
+        "title": "Full-Stack Software Engineer",
+        "company": "Cheesecake Labs",
+        "location": "Florianopolis, SC",
+        "dates": "October 2021 – March 2023",
+        "responsibilities": [
+          "Developed cryptocurrency projects using Django REST Framework in Python, including a Proof of Concept (POC) for a BRL stablecoin for the largest bank in Latin America, in collaboration with Mercado Bitcoin and Bacen.",
+          "Worked on a Central Bank Digital Currency (CBDC) for Bank Indonesia in partnership with ANZ (Australia and New Zealand Banking Group). Both projects utilized the Stellar network.",
+          "Contributed to front-end development projects such as ReawardsApp, a lottery app built with React Native, and a corporate website developed using Gatsby.js, focusing on intuitive and responsive user interfaces.",
+          "Implemented agile development practices, utilizing methodologies like Scrum and Kanban, and adopted CI/CD, clean code principles, and thorough documentation to ensure code quality and maintainability."
+        ],
+        "key_words": [
+          "Python",
+          "Django REST Framework",
+          "React",
+          "Gatsby",
+          "React Native",
+          "Stellar",
+          "Blockchain",
+          "Cryptocurrency",
+          "TDD",
+          "Clean Code",
+          "Agile",
+          "Scrum",
+          "Kanban",
+          "Linux",
+          "AWS services",
+          "Api Rest"
+        ]
+      },
+      {
+        "title": "Full-Stack Software Developer",
+        "company": "Eurotec Nutrition Brasil",
+        "location": "Palhoca, SC",
+        "dates": "August 2018 – October 2021",
+        "responsibilities": [
+          "Prototyped and developed IoT systems and embedded solutions, creating both hardware and software for remote monitoring and control of equipment.",
+          "Developed and maintained the ScadaBR supervisory system using Java Spring Boot (version 6), managed TCP/IP connections and HTTP protocols for webhooks, and applied it in industrial control and automation processes.",
+          "Implemented monitoring and telemetry systems using tools such as Grafana, Prometheus, and InfluxDB.",
+          "Adopted agile practices and CI/CD concepts, utilized Scrum and Kanban to ensure continuous delivery and ongoing improvement of the developed systems."
+        ],
+        "key_words": [
+          "Java",
+          "Spring Boot",
+          "Grafana",
+          "Prometheus",
+          "InfluxDB",
+          "Python",
+          "Django REST Framework",
+          "Scrum",
+          "Kanban",
+          "IoT",
+          "Linux",
+          "AWS services",
+          "Raspberry Pi",
+          "MQTT"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "whiteStone_dev",
+        "dates": "August 2018 – October 2021",
+        "description": "Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palhoça, that meets periodically to discuss technology trends. Each season of our meetings focuses on different topics aimed at sharing knowledge, networking, and exchanging experiences. The sessions are recorded and posted on our blog, providing access to those who couldn't attend.",
+        "responsibilities": [
+          "Led a group of developers in regular meetings to discuss tech trends and share knowledge.",
+          "Organized and documented the sessions for broader community access."
+        ],
+        "instagram": "@whitestonedev",
+        "github": null,
+        "key_words": null
+      },
+      {
+        "name": "GomuGomu SaaS",
+        "dates": "August 2018 – October 2021",
+        "description": "Developing GomuGomu, a SaaS platform designed as a comprehensive wallet for One Piece TCG players. The platform allows users to manage their card collections, track values, and operate as a marketplace.",
+        "technologies": [
+          "Image recognition with OpenCV and NumPy for card recognition.",
+          "Django REST Framework (DRF) for API development.",
+          "Web scraping of data and images using Selenium, Beautiful Soup, and computer vision with Python’s Tesseract OCR.",
+          "All services are containerized and managed with Docker, ensuring scalable and efficient deployment and management."
+        ],
+        "instagram": null,
+        "github": "https://github.com/GomuGomuu",
+        "key_words": [
+          "Python",
+          "Django REST Framework",
+          "OpenCV",
+          "NumPy",
+          "Selenium",
+          "Beautiful Soup",
+          "Tesseract OCR",
+          "Docker"
+        ]
+      }
+    ],
+    "stacks": [
+      {
+        "name": "Python",
+        "years": 6,
+        "level": "Expert"
+      },
+      {
+        "name": "Django",
+        "years": 4,
+        "level": "Advanced"
+      },
+      {
+        "name": "Django REST Framework",
+        "years": 3,
+        "level": "Advanced"
+      },
+      {
+        "name": "JavaScript",
+        "years": 2,
+        "level": "Intermediate"
+      },
+      {
+        "name": "React",
+        "years": 2,
+        "level": "Intermediate"
+      },
+      {
+        "name": "Cryptocurrency",
+        "years": 1,
+        "level": "Beginner"
+      },
+      {
+        "name": "Stellar",
+        "years": 1,
+        "level": "Beginner"
+      },
+      {
+        "name": "TDD",
+        "years": 2,
+        "level": "Advanced"
+      },
+      {
+        "name": "Clean Code",
+        "years": 6,
+        "level": "Expert"
+      },
+      {
+        "name": "IoT",
+        "years": 3,
+        "level": "Advanced"
+      },
+      {
+        "name": "Linux",
+        "years": 6,
+        "level": "Expert"
+      },
+      {
+        "name": "AWS services",
+        "years": 3,
+        "level": "Advanced"
+      },
+      {
+        "name": "Raspberry Pi",
+        "years": 3,
+        "level": "Advanced"
+      },
+      {
+        "name": "MQTT",
+        "years": 2,
+        "level": "Advanced"
+      },
+      {
+        "name": "Api Rest",
+        "years": 4,
+        "level": "Advanced"
+      }
+    ]
+  }
+  
