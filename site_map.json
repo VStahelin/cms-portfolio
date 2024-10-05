@@ -1,0 +1,12 @@
+{
+    "data": {
+        "profile.json": "https://vstahelin.github.io/cms-portfolio/data/profile.json"
+    },
+    "images": {
+        "profile_photo_1.png": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_1.png",
+        "profile_photo_2.jpg": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg"
+    },
+    "site_map.json": "https://vstahelin.github.io/cms-portfolio/site_map.json",
+    "map_generator.py": "https://vstahelin.github.io/cms-portfolio/map_generator.py",
+    "README.md": "https://vstahelin.github.io/cms-portfolio/README.md"
+}
