@@ -24,7 +24,7 @@ jobs:
 
     - name: Run Python script to generate site_map.json
       run: |
-        python your_script.py
+        python map_generator.py
 
     - name: Commit and push changes
       run: |
