@@ -26,16 +26,23 @@ jobs:
       run: |
         python map_generator.py
 
+    - name: Check if site_map.json has changed
+      run: |
+        if cmp --silent site_map.json site_map_existing.json; then
+          echo "site_map.json has not changed, skipping commit."
+          exit 0
+        else
+          echo "site_map.json has changed, proceeding to commit."
+        fi
+      continue-on-error: true
+
     - name: Commit and push changes if site_map.json is modified
+      if: success()
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions"
         git add site_map.json
-        if git diff --cached --quiet; then
-          echo "No changes to commit."
-        else
-          git commit -m "Update site_map.json"
-          git push
-        fi
+        git commit -m "Update site_map.json"
+        git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
