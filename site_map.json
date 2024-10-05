@@ -1,5 +1,6 @@
 {
     "data": {
+        "site_map.json": "https://vstahelin.github.io/cms-portfolio/site_map.json",
         "profile.json": "https://vstahelin.github.io/cms-portfolio/data/profile.json"
     },
     "images": {
