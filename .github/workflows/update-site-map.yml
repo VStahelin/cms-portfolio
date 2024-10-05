@@ -24,7 +24,7 @@ jobs:
 
     - name: Run Python script to generate site_map.json
       run: |
-        python map_generator.py
+        python scripts/map_generator.py
 
     - name: Check if site_map.json has changed
       id: check_changes
