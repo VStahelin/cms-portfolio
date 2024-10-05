@@ -14,16 +14,18 @@ Example of the generated structure:
 
 ```json
 {
-    "data": {
-        "profile.json": "https://vstahelin.github.io/cms-portfolio/data/profile.json"
-    },
+    "README.md": "https://vstahelin.github.io/cms-portfolio/README.md",
     "images": {
         "profile_photo_1.png": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_1.png",
-        "protile_photo_2.jpg": "https://vstahelin.github.io/cms-portfolio/images/protile_photo_2.jpg"
+        "profile_photo_2.jpg": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg"
     },
-    "map_generator.py": "https://vstahelin.github.io/cms-portfolio/map_generator.py",
-    "README.md": "https://vstahelin.github.io/cms-portfolio/README.md",
-    "site_map": "https://vstahelin.github.io/cms-portfolio/site_map.json"
+    "scripts": {
+        "map_generator.py": "https://vstahelin.github.io/cms-portfolio/scripts/map_generator.py"
+    },
+    "data": {
+        "profile.json": "https://vstahelin.github.io/cms-portfolio/data/profile.json",
+        "site_map.json": "https://vstahelin.github.io/cms-portfolio/data/site_map.json"
+    }
 }
 ```
 
