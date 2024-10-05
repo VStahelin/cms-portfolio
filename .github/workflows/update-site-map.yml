@@ -29,7 +29,7 @@ jobs:
     - name: Check if site_map.json has changed
       id: check_changes
       run: |
-        if git diff --quiet site_map.json; then
+        if git diff --quiet data/site_map.json; then
           echo "site_map.json has not changed."
           echo "::set-output name=changed::false"
         else
@@ -42,7 +42,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions"
-        git add site_map.json
+        git add data/site_map.json
         git commit -m "Update site_map.json"
         git push
       env:
