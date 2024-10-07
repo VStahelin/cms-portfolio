@@ -27,11 +27,6 @@
         "level": "Advanced"
       },
       {
-        "name": "Django_REST_Framework",
-        "years": 3,
-        "level": "Advanced"
-      },
-      {
         "name": "React",
         "years": 2,
         "level": "Intermediate"
@@ -42,7 +37,7 @@
         "level": "Advanced"
       },
       {
-        "name": "AWS_services",
+        "name": "AWS services",
         "years": 3,
         "level": "Advanced"
       },
