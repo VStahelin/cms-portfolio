@@ -12,6 +12,11 @@
         "level": "Expert"
       },
       {
+        "name": "Django",
+        "years": 4,
+        "level": "Advanced"
+      },
+      {
         "name": "JavaScript",
         "years": 2,
         "level": "Intermediate"
@@ -22,33 +27,13 @@
         "level": "Beginner"
       },
       {
-        "name": "Django",
-        "years": 4,
-        "level": "Advanced"
-      },
-      {
         "name": "React",
-        "years": 2,
-        "level": "Intermediate"
-      },
-      {
-        "name": "IoT",
         "years": 3,
-        "level": "Advanced"
+        "level": "Intermediate"
       },
       {
         "name": "AWS services",
         "years": 3,
-        "level": "Advanced"
-      },
-      {
-        "name": "MQTT",
-        "years": 2,
-        "level": "Advanced"
-      },
-      {
-        "name": "RestApi",
-        "years": 4,
         "level": "Advanced"
       }
     ],
