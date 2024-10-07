@@ -5,45 +5,58 @@
     "summary": "Results-driven Full-Stack Developer with over 6 years of experience specializing in Python. Expertise in creating scalable, secure, and efficient solutions using Python, JavaScript, Django, React, Gatsby, and React Native. Proven track record in developing OTA platforms from scratch, integrating APIs, and implementing payment gateways. Experienced in blockchain Proof of Concepts (POCs) with Stellar network and in developing IoT and embedded systems.",
     "short_summary": "Full-Stack Developer with 6+ years of experience in Python, JavaScript, and frameworks like Django and React. Skilled in building scalable solutions, API integrations, and payment systems. Background in blockchain POCs and IoT/embedded systems.",
     "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg",
-    "stack_proficiency": {
-      "Python": {
+    "stack_proficiency": [
+      {
+        "name": "Python",
         "years": 6,
         "level": "Expert"
       },
-      "JavaScript": {
+      {
+        "name": "JavaScript",
         "years": 2,
         "level": "Intermediate"
       },
-      "TypeScript": {
+      {
+        "name": "TypeScript",
         "years": 1,
         "level": "Beginner"
       },
-      "Django": {
+      {
+        "name": "Django",
         "years": 4,
         "level": "Advanced"
       },
-      "Django_REST_Framework": {
+      {
+        "name": "Django_REST_Framework",
         "years": 3,
         "level": "Advanced"
       },
-      "React": {
+      {
+        "name": "React",
         "years": 2,
         "level": "Intermediate"
       },
-      "IoT": {
+      {
+        "name": "IoT",
         "years": 3,
         "level": "Advanced"
       },
-      "AWS_services": {
+      {
+        "name": "AWS_services",
         "years": 3,
         "level": "Advanced"
       },
-      "MQTT": {
+      {
+        "name": "MQTT",
         "years": 2,
         "level": "Advanced"
       },
-      "RestApi": "Advanced"
-    },
+      {
+        "name": "RestApi",
+        "years": 4,
+        "level": "Advanced"
+      }
+    ],
     "contact": {
       "email": "vitor@stahelin.dev",
       "linkedin": "https://www.linkedin.com/in/vitorjosestahelin/",
