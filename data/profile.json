@@ -5,18 +5,45 @@
     "summary": "Results-driven Full-Stack Developer with over 6 years of experience specializing in Python. Expertise in creating scalable, secure, and efficient solutions using Python, JavaScript, Django, React, Gatsby, and React Native. Proven track record in developing OTA platforms from scratch, integrating APIs, and implementing payment gateways. Experienced in blockchain Proof of Concepts (POCs) with Stellar network and in developing IoT and embedded systems.",
     "short_summary": "Full-Stack Developer with 6+ years of experience in Python, JavaScript, and frameworks like Django and React. Skilled in building scalable solutions, API integrations, and payment systems. Background in blockchain POCs and IoT/embedded systems.",
     "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg",
-    "stacks": [
-      "Python",
-      "JavaScript",
-      "TypeScript",
-      "Django",
-      "Django_REST_Framework",
-      "React",
-      "IoT",
-      "AWS_services",
-      "MQTT",
-      "API_Rest"
-    ],
+    "stack_proficiency": {
+      "Python": {
+        "years": 6,
+        "level": "Expert"
+      },
+      "JavaScript": {
+        "years": 2,
+        "level": "Intermediate"
+      },
+      "TypeScript": {
+        "years": 1,
+        "level": "Beginner"
+      },
+      "Django": {
+        "years": 4,
+        "level": "Advanced"
+      },
+      "Django_REST_Framework": {
+        "years": 3,
+        "level": "Advanced"
+      },
+      "React": {
+        "years": 2,
+        "level": "Intermediate"
+      },
+      "IoT": {
+        "years": 3,
+        "level": "Advanced"
+      },
+      "AWS_services": {
+        "years": 3,
+        "level": "Advanced"
+      },
+      "MQTT": {
+        "years": 2,
+        "level": "Advanced"
+      },
+      "RestApi": "Advanced"
+    },
     "contact": {
       "email": "vitor@stahelin.dev",
       "linkedin": "https://www.linkedin.com/in/vitorjosestahelin/",
@@ -55,7 +82,7 @@
           "Python",
           "Swagger API",
           "Pytest",
-          "Api Rest",
+          "Rest Api",
           "Django"
         ],
         "link": "https://cursos.alura.com.br/degree/certificate/8ae7ec04-6c59-464f-92c0-8ea64a516da1",
@@ -111,7 +138,7 @@
         "Scrum",
         "Kanban",
         "People Management",
-        "Api Rest"
+        "Rest Api"
       ]
     },
     {
@@ -141,7 +168,7 @@
         "Kanban",
         "Linux",
         "AWS services",
-        "Api Rest"
+        "Rest Api"
       ]
     },
     {
@@ -282,7 +309,7 @@
       "level": "Advanced"
     },
     {
-      "name": "Api Rest",
+      "name": "Rest Api",
       "years": 4,
       "level": "Advanced"
     }
