@@ -208,7 +208,8 @@
         "meetup"
       ],
       "order_id": 1,
-      "project_url": "https://instagram.com/whitestonedev"
+      "project_url": "https://instagram.com/whitestonedev",
+      "thumbnail": "https://raw.githubusercontent.com/rafaelbmateus/white-stone-dev/refs/heads/gh-pages/assets/img/circlelogo.png?token=GHSAT0AAAAAACXQHIQCHVFQPRQFX2UTED3AZYNOOTQ"
 
     },
     {
@@ -234,7 +235,8 @@
         "Docker"
       ],
       "order_id": 2,
-      "project_url": "https://github.com/GomuGomuu"
+      "project_url": "https://github.com/GomuGomuu",
+      "thumbnail": "https://avatars.githubusercontent.com/u/169268292?s=400"
     }
   ],
   "project_tags": [
