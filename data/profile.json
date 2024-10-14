@@ -204,7 +204,12 @@
       ],
       "instagram": "@whitestonedev",
       "github": null,
-      "key_words": null
+      "tags": [
+        "meetup"
+      ],
+      "order_id": 1,
+      "project_url": "https://instagram.com/whitestonedev"
+
     },
     {
       "name": "GomuGomu SaaS",
@@ -218,7 +223,7 @@
       ],
       "instagram": null,
       "github": "https://github.com/GomuGomuu",
-      "key_words": [
+      "tags": [
         "Python",
         "Django REST Framework",
         "OpenCV",
@@ -227,8 +232,20 @@
         "Beautiful Soup",
         "Tesseract OCR",
         "Docker"
-      ]
+      ],
+      "order_id": 2,
+      "project_url": "https://github.com/GomuGomuu"
     }
+  ],
+  "project_tags": [
+    "Python",
+    "TypeScript",
+    "React",
+    "Django",
+    "Django REST Framework",
+    "OpenCV",
+    "Docker",
+    "Aws"
   ],
   "stacks": [
     {
