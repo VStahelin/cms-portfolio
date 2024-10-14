@@ -282,7 +282,7 @@
     {
       "name": "CMS Portfolio",
       "dates": "In progress",
-      "description": "Repository that serves as a CMS, which also includes an automated system to generate and update a file map (`site_map.json`) of static resources, including images and structured data, hosted on GitHub Pages.",
+      "description": "Repository that serves as a CMS, which also includes an automated system to generate and update a file map of static resources, including images and structured data, hosted on GitHub Pages.",
       "instagram": null,
       "github": "https://github.com/VStahelin/cms-portfolio",
       "tags": ["GitHub Actions", "Python"],
