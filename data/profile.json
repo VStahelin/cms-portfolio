@@ -237,6 +237,83 @@
       "order_id": 2,
       "project_url": "https://github.com/GomuGomuu",
       "thumbnail": "https://avatars.githubusercontent.com/u/169268292?s=400"
+    },
+    {
+      "name": "OLOP Price Scraping",
+      "dates": "In progress",
+      "description": "Web scraper for OLOP site, merging common scraping tactics with Selenium and Beautiful Soup with computer vision to collect card values, all served through a Flask API.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "Redis",
+        "Beautiful Soup",
+        "OCR"
+      ],
+      "instagram": null,
+      "github": "https://github.com/GomuGomuu/olop-price-scraping",
+      "tags": [
+        "Web Scraping",
+        "Python",
+        "Flask",
+        "Selenium",
+        "Beautiful Soup"
+      ],
+      "order_id": 4,
+      "project_url": "https://github.com/GomuGomuu/olop-price-scraping",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/web-scraping-with-selenium-and-python_banner_light.svg"
+    },
+    {
+      "name": "Portfolio",
+      "dates": "In progress",
+      "description": "My personal portfolio project built with React and TypeScript.",
+      "technologies": [
+        "TypeScript",
+        "React",
+        "Tailwind"
+      ],
+      "instagram": null,
+      "github": "https://github.com/VStahelin/portfolio",
+      "tags": [
+        "Portfolio",
+        "React",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "order_id": 5,
+      "project_url": "https://github.com/VStahelin/portfolio",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/react-tailwind-css-logo-post.webb"
+    },
+    {
+      "name": "CMS Portfolio",
+      "dates": "In progress",
+      "description": "Repository that serves as a CMS, which also includes an automated system to generate and update a file map (`site_map.json`) of static resources, including images and structured data, hosted on GitHub Pages.",
+      "technologies": [
+        "GitHub Actions"
+      ],
+      "instagram": null,
+      "github": "https://github.com/VStahelin/cms-portfolio",
+      "tags": [
+        "CMS",
+        "GitHub Actions"
+      ],
+      "order_id": 6,
+      "project_url": "https://github.com/VStahelin/cms-portfolio",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/GitHub-Logo.svg"
+    },
+    {
+      "name": "LOL Live Team Companion",
+      "dates": "In progress",
+      "description": "Little project to monitor League of Legends client and server live data to send everything to a shared dashboard.",
+      "technologies": [],
+      "instagram": null,
+      "github": "https://github.com/VStahelin/lol-live-team-companion",
+      "tags": [
+        "League of Legends",
+        "Monitoring"
+      ],
+      "order_id": 7,
+      "project_url": "https://github.com/VStahelin/lol-live-team-companion",
+      "thumbnail": "https://private-user-images.githubusercontent.com/42194516/273466083-10c86363-3071-42f9-969e-58388b6d68ce.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg5MzY2NzQsIm5iZiI6MTcyODkzNjM3NCwicGF0aCI6Ii80MjE5NDUxNi8yNzM0NjYwODMtMTBjODYzNjMtMzA3MS00MmY5LTk2OWUtNTgzODhiNmQ2OGNlLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE0VDIwMDYxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2ZmE1NGMyYjkyMGM5ZmVjYjBlMGQyZTg4OWE0OGUyZmI3ODU4ZmFjZGM3NGQzNmQxZmZlOTEzOWFjNTZlOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.b1sEVo84lCsfr1qimfe5NGiBAlwNx8CiBpQXPX_sN4I"
     }
   ],
   "project_tags": [
