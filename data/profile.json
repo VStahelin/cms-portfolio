@@ -336,7 +336,7 @@
       "dates": "April 2024",
       "description": "This is a project to explore the concept of bizarre correlations. The idea is to find correlations between two variables that are not related at all. The project is based on the Spurious Correlations website. Basic is a scraper that gets data from the Spurious Correlations website and saves i an key-value store.",
       "instagram": null,
-      "github": "",
+      "github": "https://github.com/VStahelin/bizarre-correlations",
       "tags": [
         "Python",
         "Beautiful Soup",
@@ -354,10 +354,10 @@
       "dates": "January 2024",
       "description": "This project is a proof of concept to recognize TCG cards using Dhash and OpenCV2.",
       "instagram": null,
-      "github": "",
+      "github": "https://github.com/VStahelin/tcg-card-recognition",
       "tags": ["Python", "Dhash", "OpenCV2", "NumPy"],
       "order_id": 10,
-      "project_url": "https://github.com/VStahelin/tcg-card-recognition/tree/main",
+      "project_url": "https://github.com/VStahelin/tcg-card-recognition",
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/tcg_card_recognition.jpg"
     },
     {
