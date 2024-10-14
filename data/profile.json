@@ -198,10 +198,6 @@
       "name": "whiteStone_dev",
       "dates": "August 2018 – October 2021",
       "description": "Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palhoça, that meets periodically to discuss technology trends. Each season of our meetings focuses on different topics aimed at sharing knowledge, networking, and exchanging experiences. The sessions are recorded and posted on our blog, providing access to those who couldn't attend.",
-      "responsibilities": [
-        "Led a group of developers in regular meetings to discuss tech trends and share knowledge.",
-        "Organized and documented the sessions for broader community access."
-      ],
       "instagram": "@whitestonedev",
       "github": null,
       "tags": [
@@ -216,18 +212,12 @@
       "name": "GomuGomu SaaS",
       "dates": "August 2018 – October 2021",
       "description": "Developing GomuGomu, a SaaS platform designed as a comprehensive wallet for One Piece TCG players. The platform allows users to manage their card collections, track values, and operate as a marketplace.",
-      "technologies": [
-        "Image recognition with OpenCV and NumPy for card recognition.",
-        "Django REST Framework (DRF) for API development.",
-        "Web scraping of data and images using Selenium, Beautiful Soup, and computer vision with Python’s Tesseract OCR.",
-        "All services are containerized and managed with Docker, ensuring scalable and efficient deployment and management."
-      ],
       "instagram": null,
       "github": "https://github.com/GomuGomuu",
       "tags": [
         "Python",
         "Django REST Framework",
-        "OpenCV",
+        "OpenCV2",
         "NumPy",
         "Selenium",
         "Beautiful Soup",
@@ -242,13 +232,6 @@
       "name": "OLOP Price Scraping",
       "dates": "In progress",
       "description": "Web scraper for OLOP site, merging common scraping tactics with Selenium and Beautiful Soup with computer vision to collect card values, all served through a Flask API.",
-      "technologies": [
-        "Python",
-        "Flask",
-        "Redis",
-        "Beautiful Soup",
-        "OCR"
-      ],
       "instagram": null,
       "github": "https://github.com/GomuGomuu/olop-price-scraping",
       "tags": [
@@ -256,7 +239,8 @@
         "Python",
         "Flask",
         "Selenium",
-        "Beautiful Soup"
+        "Beautiful Soup",
+        "PyTesseract OCR"
       ],
       "order_id": 4,
       "project_url": "https://github.com/GomuGomuu/olop-price-scraping",
@@ -266,15 +250,9 @@
       "name": "Portfolio",
       "dates": "In progress",
       "description": "My personal portfolio project built with React and TypeScript.",
-      "technologies": [
-        "TypeScript",
-        "React",
-        "Tailwind"
-      ],
       "instagram": null,
       "github": "https://github.com/VStahelin/portfolio",
       "tags": [
-        "Portfolio",
         "React",
         "TypeScript",
         "Tailwind"
@@ -287,14 +265,11 @@
       "name": "CMS Portfolio",
       "dates": "In progress",
       "description": "Repository that serves as a CMS, which also includes an automated system to generate and update a file map (`site_map.json`) of static resources, including images and structured data, hosted on GitHub Pages.",
-      "technologies": [
-        "GitHub Actions"
-      ],
       "instagram": null,
       "github": "https://github.com/VStahelin/cms-portfolio",
       "tags": [
-        "CMS",
-        "GitHub Actions"
+        "GitHub Actions",
+        "Python"
       ],
       "order_id": 6,
       "project_url": "https://github.com/VStahelin/cms-portfolio",
@@ -304,16 +279,105 @@
       "name": "LOL Live Team Companion",
       "dates": "In progress",
       "description": "Little project to monitor League of Legends client and server live data to send everything to a shared dashboard.",
-      "technologies": [],
       "instagram": null,
       "github": "https://github.com/VStahelin/lol-live-team-companion",
       "tags": [
         "League of Legends",
-        "Monitoring"
+        "Monitoring",
+        "FastAPI",
+        "Tailwind",
+        "Next.js",
+        "SEE",
+        "Docker",
+        "MQTT"
       ],
       "order_id": 7,
       "project_url": "https://github.com/VStahelin/lol-live-team-companion",
       "thumbnail": "https://private-user-images.githubusercontent.com/42194516/273466083-10c86363-3071-42f9-969e-58388b6d68ce.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg5MzY2NzQsIm5iZiI6MTcyODkzNjM3NCwicGF0aCI6Ii80MjE5NDUxNi8yNzM0NjYwODMtMTBjODYzNjMtMzA3MS00MmY5LTk2OWUtNTgzODhiNmQ2OGNlLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE0VDIwMDYxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2ZmE1NGMyYjkyMGM5ZmVjYjBlMGQyZTg4OWE0OGUyZmI3ODU4ZmFjZGM3NGQzNmQxZmZlOTEzOWFjNTZlOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.b1sEVo84lCsfr1qimfe5NGiBAlwNx8CiBpQXPX_sN4I"
+    },
+    {
+      "name": "Bizarre Correlations",
+      "dates": "April 2024",
+      "description": "This is a project to explore the concept of bizarre correlations. The idea is to find correlations between two variables that are not related at all. The project is based on the Spurious Correlations website. Basic is a scraper that gets data from the Spurious Correlations website and saves i an key-value store.",
+      "instagram": null,
+      "github": "",
+      "tags": [
+        "Python",
+        "Beautiful Soup",
+        "Web Scraping",
+        "Matplotlib",
+        "PicleDB",
+        "Jupyter"
+      ],
+      "order_id": 8,
+      "project_url": "https://github.com/VStahelin/bizarre-correlations",
+      "thumbnail": "https://raw.githubusercontent.com/VStahelin/bizarre-correlations/refs/heads/main/imgs/plot1.png"
+    },
+    {
+      "name": "Tcg Card Recognition",
+      "dates": "January 2024",
+      "description": "This project is a proof of concept to recognize TCG cards using Dhash and OpenCV2.",
+      "instagram": null,
+      "github": "",
+      "tags": [
+        "Python",
+        "Dhash",
+        "OpenCV2",
+        "NumPy"
+      ],
+      "order_id": 9,
+      "project_url": "https://github.com/VStahelin/tcg-card-recognition/tree/main",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/tcg_card_recognition.jpg"
+    },
+    {
+      "name": "POC - BRL Stablecoin",
+      "dates": "2022",
+      "description": "Worked to The Brazilian Central Bank LIFT challenge in a partnership with Mercado Bitcoin to present a pilot application for a DvP(Delivery versus Payment) use case that combined a precatory investment token and a wrapped version of the digital Real, and all on Stellar's network",
+      "instagram": null,
+      "github": "",
+      "tags": [
+        "Python",
+        "Django REST Framework",
+        "Stellar",
+        "Blockchain",
+        "Cryptocurrency"	
+      ],
+      "order_id": 10,
+      "project_url": "https://cheesecakelabs.com/blog/br/cheesecake-labs-amplia-seus-servicos-voltados-para-blockchain/",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
+    },
+    {
+      "name": "POC - CBDC Indonesia",
+      "dates": "2023",
+      "description": "Worked to the Indonesia’s Central Bank challenge in a partnership with eCurrency and ANZ bank to simulate a CBDC in a public network",
+      "instagram": null,
+      "github": "",
+      "tags": [
+        "Python",
+        "Django REST Framework",
+        "Stellar",
+        "Blockchain",
+        "Cryptocurrency"
+      ],
+      "order_id": 11,
+      "project_url": "https://cheesecakelabs.com/blog/br/cheesecake-labs-amplia-seus-servicos-voltados-para-blockchain/",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
+    },
+    {
+      "name": "Hermes",
+      "dates": "2022",
+      "description": "The proposal is to convert Stellar-SDK error responses into something more human-readable and add more context to multi-transaction operations.",
+      "instagram": null,
+      "github": "https://github.com/VStahelin/Hermes",
+      "tags": [
+        "Python",
+        "Stellar",
+        "Blockchain",
+        "Cryptocurrency"
+      ],
+      "order_id": 7,
+      "project_url": "https://github.com/VStahelin/Hermes",
+      "thumbnail": "https://user-images.githubusercontent.com/42194516/176932469-4a38d90d-074c-44bc-ab3d-ef9e577e2263.png"
     }
   ],
   "project_tags": [
@@ -322,7 +386,7 @@
     "React",
     "Django",
     "Django REST Framework",
-    "OpenCV",
+    "OpenCV2",
     "Docker",
     "Aws"
   ],
