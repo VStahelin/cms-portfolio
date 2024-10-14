@@ -370,6 +370,28 @@
       "order_id": 11,
       "project_url": "https://github.com/VStahelin/Hermes",
       "thumbnail": "https://user-images.githubusercontent.com/42194516/176932469-4a38d90d-074c-44bc-ab3d-ef9e577e2263.png"
+    },
+    {
+      "name": "Eurocontro - Remote Monitoring System (RMS)",
+      "dates": "2018",
+      "description": "Develop the IIoT system for remote telemetry and control of industrial equipment over than 170 industrial plants in Brazil. Developed the system using Python for the device firmware and interfacing with the MQTT protocol and AWS IoT Core, Lambda, and DynamoDB for the cloud infrastructure.",
+      "instagram": null,
+      "github": "",
+      "tags": [
+        "Python",
+        "MQTT",
+        "AWS",
+        "IoT",
+        "Raspberry Pi",
+        "Java",
+        "Spring Boot",
+        "Grafana",
+        "Prometheus",
+        "InfluxDB"
+      ],
+      "order_id": 12,
+      "project_url": "https://euronutri.com.br/en/eurocontrol",
+      "thumbnail": "https://euronutri.com.br/assets/logo-44b440cbc4f4da8196d3594b2d7977d353b684d599d147a71157f6988e269702.png"
     }
   ],
   "stacks": [
