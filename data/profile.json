@@ -220,7 +220,7 @@
       "github": "https://github.com/GomuGomuu",
       "tags": [
         "Python",
-        "Django REST Framework",
+        "Django",
         "OpenCV2",
         "NumPy",
         "Selenium",
@@ -240,7 +240,7 @@
       "github": "",
       "tags": [
         "Python",
-        "Django REST Framework",
+        "Django",
         "Stellar",
         "Docker",
         "Blockchain",
@@ -258,7 +258,7 @@
       "github": "",
       "tags": [
         "Python",
-        "Django REST Framework",
+        "Django",
         "Stellar",
         "Docker",
         "Blockchain",
@@ -371,16 +371,6 @@
       "project_url": "https://github.com/VStahelin/Hermes",
       "thumbnail": "https://user-images.githubusercontent.com/42194516/176932469-4a38d90d-074c-44bc-ab3d-ef9e577e2263.png"
     }
-  ],
-  "project_tags": [
-    "Python",
-    "TypeScript",
-    "React",
-    "Django",
-    "Django REST Framework",
-    "OpenCV2",
-    "Docker",
-    "Aws"
   ],
   "stacks": [
     {
