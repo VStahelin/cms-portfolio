@@ -1,15 +1,15 @@
 {
-    "README.md": "https://vstahelin.github.io/cms-portfolio/README.md",
     "index.html": "https://vstahelin.github.io/cms-portfolio/index.html",
-    "images": {
-        "profile_photo_1.png": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_1.png",
-        "profile_photo_2.jpg": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg"
-    },
+    "README.md": "https://vstahelin.github.io/cms-portfolio/README.md",
     "scripts": {
         "map_generator.py": "https://vstahelin.github.io/cms-portfolio/scripts/map_generator.py"
     },
     "data": {
         "profile.json": "https://vstahelin.github.io/cms-portfolio/data/profile.json",
         "site_map.json": "https://vstahelin.github.io/cms-portfolio/data/site_map.json"
+    },
+    "images": {
+        "profile_photo_2.jpg": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg",
+        "profile_photo_1.png": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_1.png"
     }
 }
