@@ -125,13 +125,8 @@
         "Python",
         "Django REST Framework",
         "JavaScript",
-        "Linux",
         "AWS services",
-        "Agile",
-        "Scrum",
-        "Kanban",
-        "People Management",
-        "Rest Api"
+        "People Management"
       ],
       "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/zarpo_logo.jpeg"
     },
@@ -148,21 +143,13 @@
       ],
       "tags": [
         "Python",
-        "Django REST Framework",
+        "Django",
         "React",
         "Gatsby",
         "React Native",
         "Stellar",
-        "Blockchain",
         "Cryptocurrency",
-        "TDD",
-        "Clean Code",
-        "Agile",
-        "Scrum",
-        "Kanban",
-        "Linux",
-        "AWS services",
-        "Rest Api"
+        "AWS services"
       ],
       "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/cheesecake_labs_logo.jpeg"
     },
@@ -179,19 +166,11 @@
       ],
       "tags": [
         "Java",
-        "Spring Boot",
-        "Grafana",
-        "Prometheus",
-        "InfluxDB",
         "Python",
-        "Django REST Framework",
-        "Scrum",
-        "Kanban",
+        "Django",
         "IoT",
-        "Linux",
         "AWS services",
-        "Raspberry Pi",
-        "MQTT"
+        "Raspberry Pi"
       ],
       "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/eurotec_nutrition_brasil_logo.jpeg"
     }
