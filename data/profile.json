@@ -121,7 +121,7 @@
         "Assist in creating and developing the new R&D area, applying agile methodologies (Scrum and Kanban), managing and prioritizing tasks for other developers, establishing development standards, applying clean code principles, and designing software architecture.",
         "Ensure the platform's security and scalability through effective use of Django and DRF."
       ],
-      "key_words": [
+      "tags": [
         "Python",
         "Django REST Framework",
         "JavaScript",
@@ -132,7 +132,8 @@
         "Kanban",
         "People Management",
         "Rest Api"
-      ]
+      ],
+      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/zarpo_logo.jpeg"
     },
     {
       "title": "Full-Stack Software Engineer",
@@ -145,7 +146,7 @@
         "Contributed to front-end development projects such as ReawardsApp, a lottery app built with React Native, and a corporate website developed using Gatsby.js, focusing on intuitive and responsive user interfaces.",
         "Implemented agile development practices, utilizing methodologies like Scrum and Kanban, and adopted CI/CD, clean code principles, and thorough documentation to ensure code quality and maintainability."
       ],
-      "key_words": [
+      "tags": [
         "Python",
         "Django REST Framework",
         "React",
@@ -162,7 +163,8 @@
         "Linux",
         "AWS services",
         "Rest Api"
-      ]
+      ],
+      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/cheesecake_labs_logo.jpeg"
     },
     {
       "title": "Full-Stack Software Developer",
@@ -175,7 +177,7 @@
         "Implemented monitoring and telemetry systems using tools such as Grafana, Prometheus, and InfluxDB.",
         "Adopted agile practices and CI/CD concepts, utilized Scrum and Kanban to ensure continuous delivery and ongoing improvement of the developed systems."
       ],
-      "key_words": [
+      "tags": [
         "Java",
         "Spring Boot",
         "Grafana",
@@ -190,7 +192,8 @@
         "AWS services",
         "Raspberry Pi",
         "MQTT"
-      ]
+      ],
+      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/eurotec_nutrition_brasil_logo.jpeg"
     }
   ],
   "projects": [
