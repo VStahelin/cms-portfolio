@@ -233,7 +233,7 @@
       "thumbnail": "https://avatars.githubusercontent.com/u/169268292?s=400"
     },
     {
-      "name": "POC - CBDC Indonesia",
+      "name": "CBDC Indonesia’s Central Bank",
       "dates": "2023",
       "description": "Worked to the Indonesia’s Central Bank challenge in a partnership with eCurrency and ANZ bank to simulate a CBDC in a public network",
       "instagram": null,
@@ -246,12 +246,12 @@
         "Blockchain",
         "Cryptocurrency"
       ],
-      "order_id": 3,
+      "order_id": 4,
       "project_url": "https://cheesecakelabs.com/blog/br/cheesecake-labs-amplia-seus-servicos-voltados-para-blockchain/",
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
     },
     {
-      "name": "POC - BRL Stablecoin",
+      "name": "Real Digital (Stablecoin)",
       "dates": "2022",
       "description": "Worked to The Brazilian Central Bank LIFT challenge in a partnership with Mercado Bitcoin to present a pilot application for a DvP(Delivery versus Payment) use case that combined a precatory investment token and a wrapped version of the digital Real, and all on Stellar's network",
       "instagram": null,
@@ -264,8 +264,8 @@
         "Blockchain",
         "Cryptocurrency"
       ],
-      "order_id": 4,
-      "project_url": "https://cheesecakelabs.com/blog/br/cheesecake-labs-amplia-seus-servicos-voltados-para-blockchain/",
+      "order_id": 3,
+      "project_url": "https://valor.globo.com/financas/criptomoedas/noticia/2023/02/24/blockchain-publica-passa-em-teste-do-real-digital.ghtml",
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
     },
     {
