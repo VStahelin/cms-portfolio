@@ -24,7 +24,9 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install Dependencies
-        run: npm install
+        run: |
+          cd profile-manager
+          npm install
 
       - name: Build profile-manager
         run: |
