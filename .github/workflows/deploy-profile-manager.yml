@@ -24,10 +24,14 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install Dependencies
-        run: npm install
+        run: |
+          cd profile-manager
+          npm install
 
       - name: Build profile-manager
-        run: npm run build
+        run: |
+          cd profile-manager
+          npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
