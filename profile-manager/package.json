@@ -1,5 +1,6 @@
 {
   "name": "profile-manager",
+  "homepage": "https://vstahelin.github.io/cms-portfolio/profile-manager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
