@@ -1,6 +1,35 @@
 {
     "index.html": "https://vstahelin.github.io/cms-portfolio/index.html",
     "README.md": "https://vstahelin.github.io/cms-portfolio/README.md",
+    "profile-manager": {
+        "package.json": "https://vstahelin.github.io/cms-portfolio/profile-manager/package.json",
+        "package-lock.json": "https://vstahelin.github.io/cms-portfolio/profile-manager/package-lock.json"
+    },
+    "profile-manager/public": {
+        "robots.txt": "https://vstahelin.github.io/cms-portfolio/profile-manager/public/robots.txt",
+        "logo512.png": "https://vstahelin.github.io/cms-portfolio/profile-manager/public/logo512.png",
+        "index.html": "https://vstahelin.github.io/cms-portfolio/profile-manager/public/index.html",
+        "manifest.json": "https://vstahelin.github.io/cms-portfolio/profile-manager/public/manifest.json",
+        "favicon.ico": "https://vstahelin.github.io/cms-portfolio/profile-manager/public/favicon.ico",
+        "logo192.png": "https://vstahelin.github.io/cms-portfolio/profile-manager/public/logo192.png"
+    },
+    "profile-manager/src": {
+        "index.js": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/index.js",
+        "App.js": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/App.js",
+        "App.css": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/App.css",
+        "App.test.js": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/App.test.js",
+        "setupTests.js": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/setupTests.js",
+        "logo.svg": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/logo.svg",
+        "reportWebVitals.js": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/reportWebVitals.js",
+        "index.css": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/index.css"
+    },
+    "profile-manager/src/schemas": {
+        "profile-schema.json": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/schemas/profile-schema.json",
+        "ui.json": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/schemas/ui.json"
+    },
+    "profile-manager/src/components": {
+        "JsonFormsEditor.js": "https://vstahelin.github.io/cms-portfolio/profile-manager/src/components/JsonFormsEditor.js"
+    },
     "scripts": {
         "map_generator.py": "https://vstahelin.github.io/cms-portfolio/scripts/map_generator.py"
     },
