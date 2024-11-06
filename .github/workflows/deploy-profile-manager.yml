@@ -1,9 +1,7 @@
 name: Deploy Profile Manager to GitHub Pages
 
 on:
-  workflow_run:
-    workflows: ["Continuous Integration (CI)"]
-    types: [completed]
+  workflow_call:
 
 jobs:
   build:
