@@ -52,6 +52,6 @@ jobs:
     needs: update-site-map
     uses: ./.github/workflows/deploy-site-source.yml
 
-  call-deploy-profile-manager:
-    needs: update-site-map
-    uses: ./.github/workflows/deploy-profile-manager.yml
+  # call-deploy-profile-manager:
+  #   needs: update-site-map
+  #   uses: ./.github/workflows/deploy-profile-manager.yml
