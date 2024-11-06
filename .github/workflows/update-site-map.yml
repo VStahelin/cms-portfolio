@@ -51,7 +51,3 @@ jobs:
   call-deploy-site-map:
     needs: update-site-map
     uses: ./.github/workflows/deploy-gh-pages.yml
-
-  call-deploy-profile-manager:
-    needs: update-site-map
-    uses: ./.github/workflows/deploy-profile-manager.yml
