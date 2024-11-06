@@ -1,0 +1,12 @@
+*.log
+*.tmp
+__pycache__/
+node_modules/
+dist/
+build/
+.git/
+.mapignore
+.github/
+.idea
+.gitignore
+profile_manager
