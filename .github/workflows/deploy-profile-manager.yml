@@ -1,30 +1,55 @@
-name: Deploy Profile Manager
+name: Deploy Profile Manager to GitHub Pages
 
 on:
-  workflow_call:
+  workflow_run:
+    workflows: ["Continuous Integration (CI)"]
+    types: [completed]
 
 jobs:
-  deploy-profile-manager:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: "16" # Certifique-se de que esta versão é compatível com seu projeto
+          node-version: "16"
+
+      - name: Cache Node modules
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install Dependencies
+        run: npm ci --legacy-peer-deps
 
       - name: Build profile-manager
         run: |
           cd profile-manager
-          npm install
           npm run build
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: profile-manager/build
-          cname: "" # Remova se você não usa domínio personalizado
+          path: "profile-manager/build/."
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/profile-manager/"
+    steps:
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Deploy
+        uses: actions/deploy-pages@v4
