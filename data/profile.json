@@ -213,24 +213,25 @@
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/white_stone_dev_logo_circle.png"
     },
     {
-      "name": "GomuGomu SaaS",
+      "name": "GomuGomuu Org",
       "dates": "August 2018 – October 2021",
-      "description": "Developing GomuGomu, a SaaS platform designed as a comprehensive wallet for One Piece TCG players. The platform allows users to manage their card collections, track values, and operate as a marketplace.",
+      "description": "GomuGomuu is an organization focused on building projects around the One Piece universe, creating a connected ecosystem. It includes key projects like *Merry*, a Django-based API backend that now also incorporates the functionalities of *ope-ope* for card recognition, *olop-price-scraping*, a service for tracking OPTCG exchange rates, and *nomi-nomi*, a React Native app for One Piece card identification and deck building. GomuGomuu promotes collaboration and welcomes contributions to grow and enhance its projects.",
       "instagram": null,
       "github": "https://github.com/GomuGomuu",
       "tags": [
         "Python",
         "Django",
-        "OpenCV2",
-        "NumPy",
+        "TypeScript",
+        "React Native",
+        "Tesseract OCR",
+        "Docker",
         "Selenium",
         "Beautiful Soup",
-        "Tesseract OCR",
-        "Docker"
+        "Gemini"
       ],
       "order_id": 2,
       "project_url": "https://github.com/GomuGomuu",
-      "thumbnail": "https://avatars.githubusercontent.com/u/169268292?s=400"
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.png"
     },
     {
       "name": "CBDC Indonesia’s Central Bank",
