@@ -423,6 +423,19 @@
         "Gemini",
         "TTs"
       ]
+    },
+    {
+      "description": "Nomi-Nomi is a React Native app that serves as an interface for the backend of Merry. It allows users to quickly identify One Piece cards by taking a photo, with the image processing handled by the backend. The app provides detailed card information and also enables users to build their own vault of cards and test deck builds. It connects seamlessly to the Merry server, offering a smooth experience for card recognition, exploration, and deck management.",
+      "dates": "2024",
+      "name": "Nomi Nomi",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/nomi-nomi.png",
+      "project_url": "https://github.com/GomuGomuu/nomi-nomi",
+      "order_id": 14,
+      "tags": [
+        "React Native",
+        "TypeScript",
+        "Expo"
+      ]
     }
   ],
   "stacks": [
