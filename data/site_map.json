@@ -9,6 +9,7 @@
         "site_map.json": "https://vstahelin.github.io/cms-portfolio/data/site_map.json"
     },
     "images": {
+        "big_mind_assintant.png": "https://vstahelin.github.io/cms-portfolio/images/big_mind_assintant.png",
         "react-tailwind-css-logo-post.png": "https://vstahelin.github.io/cms-portfolio/images/react-tailwind-css-logo-post.png",
         "web-scraping-with-selenium-and-python_banner_light.svg": "https://vstahelin.github.io/cms-portfolio/images/web-scraping-with-selenium-and-python_banner_light.svg",
         "profile_photo_2.jpg": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg",
