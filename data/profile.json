@@ -234,6 +234,24 @@
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.png"
     },
     {
+      "name": "Real Digital (Stablecoin)",
+      "dates": "2022",
+      "description": "Worked to The Brazilian Central Bank LIFT challenge in a partnership with Mercado Bitcoin to present a pilot application for a DvP(Delivery versus Payment) use case that combined a precatory investment token and a wrapped version of the digital Real, and all on Stellar's network",
+      "instagram": null,
+      "github": "",
+      "tags": [
+        "Python",
+        "Django",
+        "Stellar",
+        "Docker",
+        "Blockchain",
+        "Cryptocurrency"
+      ],
+      "order_id": 3,
+      "project_url": "https://valor.globo.com/financas/criptomoedas/noticia/2023/02/24/blockchain-publica-passa-em-teste-do-real-digital.ghtml",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
+    },
+    {
       "name": "CBDC Indonesia’s Central Bank",
       "dates": "2023",
       "description": "Worked to the Indonesia’s Central Bank challenge in a partnership with eCurrency and ANZ bank to simulate a CBDC in a public network",
@@ -252,22 +270,40 @@
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
     },
     {
-      "name": "Real Digital (Stablecoin)",
-      "dates": "2022",
-      "description": "Worked to The Brazilian Central Bank LIFT challenge in a partnership with Mercado Bitcoin to present a pilot application for a DvP(Delivery versus Payment) use case that combined a precatory investment token and a wrapped version of the digital Real, and all on Stellar's network",
-      "instagram": null,
-      "github": "",
+      "description": "Big Mind Assistant is a Telegram bot focused on accessibility, designed to help users interact in a more inclusive way. It allows audio messages to be transcribed into text, images to be described, and text to be converted into speech, making information more accessible for individuals with reading difficulties or visual impairments. It's ideal for enhancing communication and accessibility, especially for Portuguese-speaking users.",
+      "name": "Big Mind Assistant",
+      "dates": "2024",
+      "order_id": 5,
+      "project_url": "https://github.com/VStahelin/big-mind-assintant",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/big_mind_assintant.png",
       "tags": [
+        "Bot",
         "Python",
-        "Django",
-        "Stellar",
-        "Docker",
-        "Blockchain",
-        "Cryptocurrency"
-      ],
-      "order_id": 3,
-      "project_url": "https://valor.globo.com/financas/criptomoedas/noticia/2023/02/24/blockchain-publica-passa-em-teste-do-real-digital.ghtml",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
+        "Telegram",
+        "Gemini",
+        "TTs"
+      ]
+    },
+    {
+      "description": "Nomi-Nomi is a React Native app that serves as an interface for the backend of Merry. It allows users to quickly identify One Piece cards by taking a photo, with the image processing handled by the backend. The app provides detailed card information and also enables users to build their own vault of cards and test deck builds. It connects seamlessly to the Merry server, offering a smooth experience for card recognition, exploration, and deck management.",
+      "dates": "2024",
+      "name": "Nomi Nomi",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/nomi-nomi.png",
+      "project_url": "https://github.com/GomuGomuu/nomi-nomi",
+      "order_id": 6,
+      "tags": [
+        "React Native",
+        "TypeScript",
+        "Expo"
+      ]
+    },
+    {
+      "order_id": 7,
+      "description": "The ope-ope project leverages Google's Gemini API for text extraction from images, a crucial step in recognizing One Piece game cards. It then applies Natural Language Processing (NLP) techniques to interpret the extracted text and search for matching cards in a database. This combination of Gemini for visual extraction and NLP for text processing enables quick and accurate card identification, providing users with detailed information efficiently.",
+      "dates": "2024",
+      "name": "Ope Ope",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/ope-ope2.png",
+      "project_url": "https://github.com/GomuGomuu/ope-ope"
     },
     {
       "name": "Portfolio",
@@ -409,42 +445,6 @@
       "order_id": 15,
       "project_url": "https://euronutri.com.br/en/eurocontrol",
       "thumbnail": "https://euronutri.com.br/assets/logo-44b440cbc4f4da8196d3594b2d7977d353b684d599d147a71157f6988e269702.png"
-    },
-    {
-      "description": "Big Mind Assistant is a Telegram bot focused on accessibility, designed to help users interact in a more inclusive way. It allows audio messages to be transcribed into text, images to be described, and text to be converted into speech, making information more accessible for individuals with reading difficulties or visual impairments. It's ideal for enhancing communication and accessibility, especially for Portuguese-speaking users.",
-      "name": "Big Mind Assistant",
-      "dates": "2024",
-      "order_id": 5,
-      "project_url": "https://github.com/VStahelin/big-mind-assintant",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/big_mind_assintant.png",
-      "tags": [
-        "Bot",
-        "Python",
-        "Telegram",
-        "Gemini",
-        "TTs"
-      ]
-    },
-    {
-      "description": "Nomi-Nomi is a React Native app that serves as an interface for the backend of Merry. It allows users to quickly identify One Piece cards by taking a photo, with the image processing handled by the backend. The app provides detailed card information and also enables users to build their own vault of cards and test deck builds. It connects seamlessly to the Merry server, offering a smooth experience for card recognition, exploration, and deck management.",
-      "dates": "2024",
-      "name": "Nomi Nomi",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/nomi-nomi.png",
-      "project_url": "https://github.com/GomuGomuu/nomi-nomi",
-      "order_id": 6,
-      "tags": [
-        "React Native",
-        "TypeScript",
-        "Expo"
-      ]
-    },
-    {
-      "order_id": 7,
-      "description": "The ope-ope project leverages Google's Gemini API for text extraction from images, a crucial step in recognizing One Piece game cards. It then applies Natural Language Processing (NLP) techniques to interpret the extracted text and search for matching cards in a database. This combination of Gemini for visual extraction and NLP for text processing enables quick and accurate card identification, providing users with detailed information efficiently.",
-      "dates": "2024",
-      "name": "Ope Ope",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/ope-ope2.png",
-      "project_url": "https://github.com/GomuGomuu/ope-ope"
     }
   ],
   "stacks": [
