@@ -6,6 +6,7 @@
         "projects.json": "https://vstahelin.github.io/cms-portfolio/scripts/projects.json"
     },
     "data": {
+        "project.json": "https://vstahelin.github.io/cms-portfolio/data/project.json",
         "profile.json": "https://vstahelin.github.io/cms-portfolio/data/profile.json",
         "site_map.json": "https://vstahelin.github.io/cms-portfolio/data/site_map.json"
     },
