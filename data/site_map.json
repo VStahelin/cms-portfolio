@@ -2,7 +2,8 @@
     "index.html": "https://vstahelin.github.io/cms-portfolio/index.html",
     "README.md": "https://vstahelin.github.io/cms-portfolio/README.md",
     "scripts": {
-        "map_generator.py": "https://vstahelin.github.io/cms-portfolio/scripts/map_generator.py"
+        "map_generator.py": "https://vstahelin.github.io/cms-portfolio/scripts/map_generator.py",
+        "projects.json": "https://vstahelin.github.io/cms-portfolio/scripts/projects.json"
     },
     "data": {
         "profile.json": "https://vstahelin.github.io/cms-portfolio/data/profile.json",
@@ -26,6 +27,7 @@
         "ope-ope.jpeg": "https://vstahelin.github.io/cms-portfolio/images/ope-ope.jpeg",
         "gomu-gomu.jpeg": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.jpeg",
         "eurotec_nutrition_brasil_logo.jpeg": "https://vstahelin.github.io/cms-portfolio/images/eurotec_nutrition_brasil_logo.jpeg",
+        "merry.png": "https://vstahelin.github.io/cms-portfolio/images/merry.png",
         "big_mind_assintant.jpeg": "https://vstahelin.github.io/cms-portfolio/images/big_mind_assintant.jpeg",
         "nomi-nomi.png": "https://vstahelin.github.io/cms-portfolio/images/nomi-nomi.png",
         "nomi-nomi.jpeg": "https://vstahelin.github.io/cms-portfolio/images/nomi-nomi.jpeg",
