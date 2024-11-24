@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Gomu Gomu",
+    "short_description": "GomuGomuu is an organization building a connected ecosystem around the One Piece universe. Key projects include Merry, a Django API with card recognition, olop-price-scraping for tracking OPTCG exchange rates, and nomi-nomi, a React Native app for card identification and deck building. GomuGomuu encourages collaboration to grow and improve its projects.",
+    "description": "GomuGomuu is an organization focused on building projects around the One Piece universe, creating a connected ecosystem. It includes key projects like Merry, a Django-based API backend that now also incorporates the functionalities of Ope Ope for card recognition, Olop Price Scraping, a service for tracking OPTCG exchange rates, and Nomi Nomi, a React Native app for One Piece card identification and deck building. GomuGomuu promotes collaboration and welcomes contributions to grow and enhance its projects.",
+    "is_highlighted": true,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.png",
+    "tags": [
+      "Python",
+      "Typescript",
+      "React",
+      "React Native",
+      "Gemini",
+      "Docker",
+      "Scrapping"
+    ],
+    "more_info_link": "https://github.com/GomuGomuu"
+  }
+]
