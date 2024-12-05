@@ -283,14 +283,6 @@
       ]
     },
     {
-      "order_id": 7,
-      "description": "The ope-ope project leverages Google's Gemini API for text extraction from images, a crucial step in recognizing One Piece game cards. It then applies Natural Language Processing (NLP) techniques to interpret the extracted text and search for matching cards in a database. This combination of Gemini for visual extraction and NLP for text processing enables quick and accurate card identification, providing users with detailed information efficiently.",
-      "dates": "2024",
-      "name": "Ope Ope",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/ope-ope2.png",
-      "project_url": "https://github.com/GomuGomuu/ope-ope"
-    },
-    {
       "name": "Zarpo",
       "thumbnail": "https://media.licdn.com/dms/image/v2/C4D0BAQFJV-mwBl953w/company-logo_200_200/company-logo_200_200/0/1636121363722/zarpo_logo?e=1740614400&v=beta&t=zVKWYifRAD0pjnkZMpBChXLGeR425UzPkiEfn_ljYlY",
       "project_url": "https://www.zarpo.com.br/",
