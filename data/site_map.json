@@ -11,6 +11,7 @@
         "projects.json": "https://vstahelin.github.io/cms-portfolio/scripts/projects.json"
     },
     "images": {
+        "cheesecake_labs_logo.png": "https://vstahelin.github.io/cms-portfolio/images/cheesecake_labs_logo.png",
         "ope-ope2.png": "https://vstahelin.github.io/cms-portfolio/images/ope-ope2.png",
         "scraping.png": "https://vstahelin.github.io/cms-portfolio/images/scraping.png",
         "profile_photo_2.jpg": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg",
@@ -21,6 +22,7 @@
         "stellar.png": "https://vstahelin.github.io/cms-portfolio/images/stellar.png",
         "ope-ope2.jpeg": "https://vstahelin.github.io/cms-portfolio/images/ope-ope2.jpeg",
         "cheesecake_labs_logo.jpeg": "https://vstahelin.github.io/cms-portfolio/images/cheesecake_labs_logo.jpeg",
+        "eurotec.png": "https://vstahelin.github.io/cms-portfolio/images/eurotec.png",
         "gomu-gomu.png": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.png",
         "big_mind_assintant.png": "https://vstahelin.github.io/cms-portfolio/images/big_mind_assintant.png",
         "white_stone_dev_logo_circle.png": "https://vstahelin.github.io/cms-portfolio/images/white_stone_dev_logo_circle.png",
@@ -31,6 +33,7 @@
         "GitHub-Logo.svg": "https://vstahelin.github.io/cms-portfolio/images/GitHub-Logo.svg",
         "eye_comp_icon.png": "https://vstahelin.github.io/cms-portfolio/images/eye_comp_icon.png",
         "react-tailwind-css-logo-post.png": "https://vstahelin.github.io/cms-portfolio/images/react-tailwind-css-logo-post.png",
+        "zarpo_logo.png": "https://vstahelin.github.io/cms-portfolio/images/zarpo_logo.png",
         "zarpo_logo.jpeg": "https://vstahelin.github.io/cms-portfolio/images/zarpo_logo.jpeg",
         "gomu-gomu.jpeg": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.jpeg",
         "lol.svg": "https://vstahelin.github.io/cms-portfolio/images/lol.svg",
