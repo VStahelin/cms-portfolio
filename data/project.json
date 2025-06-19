@@ -1,0 +1,231 @@
+[
+  {
+    "title": "Gomu Gomu",
+    "short_description": "GomuGomuu is an organization building a connected ecosystem around the One Piece universe. Key projects include Merry, a Django API with card recognition, olop-price-scraping for tracking OPTCG exchange rates, and nomi-nomi, a React Native app for card identification and deck building. GomuGomuu encourages collaboration to grow and improve its projects.",
+    "description": "GomuGomuu is an organization focused on building projects around the One Piece universe, creating a connected ecosystem. It includes key projects like Merry, a Django-based API backend that now also incorporates the functionalities of Ope Ope for card recognition, Olop Price Scraping, a service for tracking OPTCG exchange rates, and Nomi Nomi, a React Native app for One Piece card identification and deck building. GomuGomuu promotes collaboration and welcomes contributions to grow and enhance its projects.",
+    "is_highlighted": true,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.png",
+    "tags": [
+      "Gemini",
+      "Typescript",
+      "Docker",
+      "React Native",
+      "Python",
+      "Web Scraping",
+      "React"
+    ],
+    "more_info_link": "https://github.com/GomuGomuu"
+  },
+  {
+    "title": "Merry - One Piece Card Game Management",
+    "tags": ["Gemini", "Docker", "Django", "Python", "API", "Machine Learning"],
+    "short_description": "Merry is a Django-powered application designed to enhance your One Piece Card Game experience with features like card databases, recognition, price tracking, and deck building.",
+    "description": "Merry is a project built with Django that aims to improve the One Piece Card Game experience. It offers features such as a card database, card recognition using machine learning and Google\u2019s Gemini AI, deck building (coming soon), price tracking, and community features (coming soon). The app is dockerized for easy deployment and includes various tools like Makefiles to simplify project setup and management.",
+    "is_highlighted": true,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/merry.png",
+    "more_info_link": "https://github.com/GomuGomuu/merry"
+  },
+  {
+    "title": "Real Digital (Stablecoin)",
+    "tags": [
+      "Blockchain",
+      "Cryptocurrency",
+      "Docker",
+      "Django",
+      "Python",
+      "Stellar"
+    ],
+    "short_description": "Worked on a pilot application for the Brazilian Central Bank LIFT challenge in partnership with Mercado Bitcoin. The project involved a DvP (Delivery versus Payment) use case that combined a precatory investment token and a wrapped version of the digital Real, all on Stellar's network.",
+    "description": "Real Digital is a project that was developed as part of the Brazilian Central Bank LIFT challenge in collaboration with Mercado Bitcoin. The project aimed to create a pilot application for a Delivery versus Payment (DvP) use case that combined a precatory investment token and a wrapped version of the digital Real, all on Stellar's network. The project leveraged Python, Django, Stellar, Docker, and blockchain technology to create a stablecoin solution that could be used for secure and efficient transactions.",
+    "is_highlighted": true,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/stellar.png",
+    "more_info_link": "https://valor.globo.com/financas/criptomoedas/noticia/2023/02/24/blockchain-publica-passa-em-teste-do-real-digital.ghtml"
+  },
+  {
+    "title": "Nomi Nomi App",
+    "tags": ["Typescript", "Expo", "React Native"],
+    "short_description": "Nomi-Nomi is a React Native app that interfaces with Merry's backend to identify One Piece cards via photo, offering detailed information. Users can build a card vault and test deck builds, with seamless integration to the Merry server.",
+    "description": "Nomi-Nomi is a React Native app that serves as an interface for the backend of Merry. It allows users to quickly identify One Piece cards by taking a photo, with the image processing handled by the backend. The app provides detailed card information and also enables users to build their own vault of cards and test deck builds. It connects seamlessly to the Merry server, offering a smooth experience for card recognition, exploration, and deck management.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/nomi-nomi.png",
+    "more_info_link": "https://github.com/GomuGomuu/nomi-nomi"
+  },
+  {
+    "title": "Zarpo Platform",
+    "tags": ["Django", "API", "Python", "AWS"],
+    "short_description": "The platform is a Django-based e-commerce platform that integrates with various APIs to provide a seamless booking experience for users. It connects with hotel providers like Omnibees, payment APIs like PagBank, and air booking consolidators like Envision.",
+    "description": "Zarpo Viagens is an OTA (Online Travel Agency) platform focused on hotel and travel package bookings. I worked on the development since the scratch of the project, building the backend with Django and Django REST Framework (DRF). The platform integrates with various APIs to provide a seamless booking experience for users, connecting with hotel providers like Omnibees, payment APIs like PagBank, and air booking consolidators like Envision. The project also involved the development of a custom CMS for managing content and promotions on the platform.",
+    "is_highlighted": true,
+    "image_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFJV-mwBl953w/company-logo_200_200/company-logo_200_200/0/1636121363722/zarpo_logo?e=1740614400&v=beta&t=zVKWYifRAD0pjnkZMpBChXLGeR425UzPkiEfn_ljYlY",
+    "more_info_link": "https://www.zarpo.com.br/"
+  },
+  {
+    "title": "whiteStone_dev",
+    "tags": ["Meetup"],
+    "short_description": "Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palho\u00e7a, that meets periodically to discuss technology trends.",
+    "description": "Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palho\u00e7a, that meets periodically to discuss technology trends. Each season of our meetings focuses on different topics aimed at sharing knowledge, networking, and exchanging experiences. The sessions are recorded and posted on our blog, providing access to those who couldn't attend.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/white_stone_dev_logo_circle.png",
+    "more_info_link": "https://instagram.com/whitestonedev"
+  },
+  {
+    "title": "Big Mind Assistant",
+    "tags": ["Telegram", "Python", "Gemini"],
+    "short_description": "Big Mind Assistant is a Telegram bot designed to enhance accessibility. It transcribes audio to text, describes images, and converts text to speech, making information more accessible for users with reading or visual impairments, especially Portuguese speakers.",
+    "description": "Big Mind Assistant is a Telegram bot focused on accessibility, designed to help users interact in a more inclusive way. It allows audio messages to be transcribed into text, images to be described, and text to be converted into speech, making information more accessible for individuals with reading difficulties or visual impairments. It's ideal for enhancing communication and accessibility, especially for Portuguese-speaking users. ",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/big_mind_assintant.png",
+    "more_info_link": "https://github.com/VStahelin/big-mind-assintant"
+  },
+  {
+    "title": "CBDC Indonesia\u2019s Central Bank",
+    "tags": ["Django", "Python", "Blockchain", "Cryptocurrency", "Stellar"],
+    "short_description": "Collaborated with eCurrency and ANZ Bank to simulate a CBDC in a public network for Indonesia\u2019s Central Bank.",
+    "description": "Worked on Indonesia\u2019s Central Bank challenge in a partnership with eCurrency and ANZ Bank to simulate a Central Bank Digital Currency (CBDC) on a public network. This project involved using Python, Django, Stellar, Docker, Blockchain, and Cryptocurrency technologies to create a robust solution for the bank\u2019s needs.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/stellar.png",
+    "more_info_link": "https://cheesecakelabs.com/blog/br/cheesecake-labs-amplia-seus-servicos-voltados-para-blockchain/"
+  },
+  {
+    "title": "Ope Ope",
+    "tags": ["Gemini", "NLP", "Python", "Docker", "Flask"],
+    "short_description": "A project that uses Google's Gemini API and Natural Language Processing (NLP) to recognize One Piece game cards.",
+    "description": "The Ope Ope project leverages Google's Gemini API for text extraction from images, a crucial step in recognizing One Piece game cards. It then applies Natural Language Processing (NLP) techniques to interpret the extracted text and search for matching cards in a database. This combination of Gemini for visual extraction and NLP for text processing enables quick and accurate card identification, providing users with detailed information efficiently.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/ope-ope2.png",
+    "more_info_link": "https://github.com/GomuGomuu/ope-ope"
+  },
+  {
+    "title": "Portfolio",
+    "tags": ["Typescript", "React", "Tailwind"],
+    "short_description": "My personal portfolio project built with React and TypeScript, using Tailwind CSS for styling.",
+    "description": "The Portfolio project showcases my personal work, built with React and TypeScript, and styled using Tailwind CSS. It's a space to practice my development skills and present my projects in an organized and professional manner.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/react-tailwind-css-logo-post.png",
+    "more_info_link": "https://github.com/VStahelin/portfolio"
+  },
+  {
+    "title": "CMS Portfolio",
+    "tags": ["Python", "Github Actions"],
+    "short_description": "CMS repository for managing static resources with automated file map updates.",
+    "description": "Repository that serves as a CMS, which also includes an automated system to generate and update a file map of static resources, including images and structured data, hosted on GitHub Pages.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/GitHub-Logo.svg",
+    "more_info_link": "https://github.com/VStahelin/cms-portfolio"
+  },
+  {
+    "title": "OLOP Price Scraping",
+    "tags": [
+      "Pytesseract Ocr",
+      "Docker",
+      "Selenium",
+      "Python",
+      "Beautiful Soup",
+      "Web Scraping",
+      "Flask"
+    ],
+    "short_description": "Web scraper for OLOP site to collect card values using Selenium, Beautiful Soup, and computer vision.",
+    "description": "Web scraper for OLOP site, merging common scraping tactics with Selenium and Beautiful Soup with computer vision to collect card values, all served through a Flask API.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/web-scraping-with-selenium-and-python_banner_light.svg",
+    "more_info_link": "https://github.com/GomuGomuu/olop-price-scraping"
+  },
+  {
+    "title": "LOL Live Team Companion",
+    "tags": ["Tailwind", "Fastapi", "Docker", "Python", "SEE", "MQTT"],
+    "short_description": "Tool to monitor League of Legends client and server live data.",
+    "description": "Little project to monitor League of Legends client and server live data to send everything to a shared dashboard.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/lol.svg",
+    "more_info_link": "https://github.com/VStahelin/lol-live-team-companion"
+  },
+  {
+    "title": "Tcg Card Recognition",
+    "tags": ["Opencv2", "Dhash", "Python", "Numpy"],
+    "short_description": "A proof of concept to recognize TCG cards using Dhash and OpenCV2.",
+    "description": "This project is a proof of concept to recognize TCG cards using Dhash and OpenCV2. It processes card images to identify them by comparing hash values and performing image analysis, providing a foundation for further developments in the area of card recognition.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/tcg_card_recognition.jpg",
+    "more_info_link": "https://github.com/VStahelin/tcg-card-recognition"
+  },
+  {
+    "title": "Istepo Calendar (Initial Stage)",
+    "tags": ["Typescript", "React", "Node.js", "Express", "Versel", "Monorepo"],
+    "short_description": "A collaborative calendar designed to centralize tech event dates and information in one place.",
+    "description": "A collaborative calendar designed to centralize tech event dates and information in one place. With so many tech events happening, this tool decentralizes the responsibility of updating the calendar, making it easier for everyone to stay informed. Built as a monorepo, it includes a React front-end hosted on GitHub Pages and an Express API hosted on Vercel.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/calendar.png",
+    "more_info_link": "https://github.com/VStahelin/calendario-istepo"
+  },
+  {
+    "title": "React + Vite + Tailwind + TS Template",
+    "tags": ["Typescript", "React", "Tailwind", "Vite"],
+    "short_description": "A boilerplate template for quickly starting React projects with Vite, Tailwind CSS, and TypeScript.",
+    "description": "My boilerplate for starting React projects. After repeatedly spending time setting up React projects that should be quick, I created this streamlined template. It includes React, Vite, Tailwind CSS, and TypeScript, providing a simple foundation for new projects.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/react-tailwind-css-logo-post.png",
+    "more_info_link": "https://github.com/VStahelin/react-vite-typescript-tailwind-template"
+  },
+  {
+    "title": "Live Overlay Orchestrator",
+    "tags": ["Typescript", "React", "Node.js", "Tailwind"],
+    "short_description": "A React application designed to serve widgets/overlays for livestreams.",
+    "description": "A React application designed to serve widgets/overlays for livestreams. Currently in its early development stage, it displays data about speakers and sponsors during live broadcasts, initially created for the KCD Floripa 2024 event.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/color-widgets.png",
+    "more_info_link": "https://github.com/VStahelin/live-overlay-orchestrator"
+  },
+  {
+    "title": "Hermes",
+    "tags": ["Cryptocurrency", "Python", "Blockchain", "Stellar"],
+    "short_description": "A tool to convert Stellar-SDK error responses into more human-readable formats.",
+    "description": "Hermes is a proposal to improve error handling in Stellar-SDK by converting error responses into a more human-readable format. It also adds more context to multi-transaction operations, making it easier to troubleshoot and understand error messages related to Stellar transactions.",
+    "is_highlighted": false,
+    "image_url": "https://user-images.githubusercontent.com/42194516/176932469-4a38d90d-074c-44bc-ab3d-ef9e577e2263.png",
+    "more_info_link": "https://github.com/VStahelin/Hermes"
+  },
+  {
+    "title": "Letswork-Hours Balance Calculator",
+    "tags": ["Python", "Beautiful Soup"],
+    "short_description": "A simple Python script to calculate and generate the balance of work hours from the Letswork platform.",
+    "description": "A simple Python script to calculate and generate the balance of work hours from the Letswork platform.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/scraping.png",
+    "more_info_link": "https://github.com/VStahelin/letswork-hours-balance-calculator"
+  },
+  {
+    "title": "Nubank Invoice Analyzer",
+    "tags": ["Python", "Beautiful Soup"],
+    "short_description": "A lightweight Python script created to experiment with Streamlit for data visualization and analysis.",
+    "description": "A lightweight Python script created to experiment with Streamlit for data visualization and analysis.",
+    "is_highlighted": false,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/financial_data.png",
+    "more_info_link": "https://github.com/VStahelin/analizador-fatura-nubank"
+  },
+  {
+    "title": "Bizarre Correlations",
+    "tags": ["Python", "Machine Learning", "Selenium"],
+    "short_description": "Tool scraping for bizarre correlations, tracking metrics like animes' IMDB ratings, and their comparisons to other variables.",
+    "description": "A personal tool that scrapes various sources of data, like IMDB ratings for animes, to build a database of bizarre correlations that could serve as a starting point for future analysis and projects.",
+    "is_highlighted": false,
+    "image_url": "https://raw.githubusercontent.com/VStahelin/bizarre-correlations/refs/heads/main/imgs/plot1.png",
+    "more_info_link": "https://github.com/VStahelin/bizarre-correlations"
+  },
+  {
+    "title": "Eurocontro - Remote Monitoring System (RMS)",
+    "tags": [
+      "MQTT",
+      "Java",
+      "Spring Boot",
+      "AWS",
+      "Python",
+      "Iot",
+      "Raspberry Pi"
+    ],
+    "short_description": "IIoT system for telemetry and control of industrial equipment across 170+ plants in Brazil.",
+    "description": "Eurocontro's RMS is an IIoT system designed for the remote telemetry and control of industrial equipment in over 170 plants across Brazil. The system uses Python for device firmware, MQTT for communication, and AWS IoT Core, Lambda, and DynamoDB for cloud infrastructure. The data collected is visualized through Grafana and Prometheus for real-time monitoring.",
+    "is_highlighted": false,
+    "image_url": "https://euronutri.com.br/assets/logo-44b440cbc4f4da8196d3594b2d7977d353b684d599d147a71157f6988e269702.png",
+    "more_info_link": "https://euronutri.com.br/en/eurocontrol"
+  }
+]

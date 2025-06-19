@@ -46,27 +46,43 @@
     "certifications": [
       {
         "name": "Django Certification - Alura",
-        "key_words": ["Django", "Python", "TDD", "Pytest"],
+        "key_words": [
+          "Django",
+          "Python",
+          "TDD",
+          "Pytest"
+        ],
         "link": "https://cursos.alura.com.br/degree/certificate/b1a3f390-6e3e-434f-b5b5-a119c9fcb1a8",
-        "date": "01-07-2021"
+        "date": "2021-07-01"
       },
       {
         "name": "Python Certification - Alura",
-        "key_words": ["Python", "Pytest"],
+        "key_words": [
+          "Python",
+          "Pytest"
+        ],
         "link": "https://cursos.alura.com.br/degree/certificate/204d2140-88f6-4d66-8202-b3dceb357c56",
-        "date": "01-05-2020"
+        "date": "2020-05-01"
       },
       {
         "name": "TypeScript Certification - Alura",
-        "key_words": ["TypeScript", "JavaScript", "Node.Js"],
+        "key_words": [
+          "TypeScript",
+          "JavaScript",
+          "Node.Js"
+        ],
         "link": "https://cursos.alura.com.br/degree/certificate/15a20fb3-589c-4346-8836-484f0fa0da65",
-        "date": "01-07-2022"
+        "date": "2022-07-01"
       },
       {
         "name": "Raspberry Pi Certification - Alura",
-        "key_words": ["Raspberry Pi", "Iot", "Python"],
+        "key_words": [
+          "Raspberry Pi",
+          "Iot",
+          "Python"
+        ],
         "link": "https://cursos.alura.com.br/degree/certificate/82dcb31d-1733-4bf3-b80b-80cd68d2ce0f",
-        "date": "01-07-2020"
+        "date": "2020-07-01"
       },
       {
         "name": "Django REST Framework Certification - Alura",
@@ -92,12 +108,14 @@
       {
         "degree": "Technician in Infrastructure and Programming",
         "institution": "SENAI/SC",
-        "graduation_date": "Dec 2017"
+        "graduation_date": "Dec 2017",
+        "status": "Finished"
       },
       {
         "degree": "Technician in General Computer Programming",
         "institution": "SENAI/SC",
-        "graduation_date": "Dec 2015"
+        "graduation_date": "Dec 2015",
+        "status": "Finished"
       }
     ],
     "soft_skills": [
@@ -114,7 +132,7 @@
       "title": "Senior Full-Stack Software Developer",
       "company": "Zarpo",
       "location": "São Paulo, SP",
-      "dates": "Jan 2023 – Present",
+      "dates": "April 2023 – Present",
       "responsibilities": [
         "Develop and maintain the new OTA platform using Django with Python and Django REST Framework (DRF).",
         "Integrate APIs from hotel providers like Omnibees, payment APIs like PagBank, and the consolidating airline booking API Envision.",
@@ -195,42 +213,25 @@
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/white_stone_dev_logo_circle.png"
     },
     {
-      "name": "GomuGomu SaaS",
+      "name": "GomuGomuu Org",
       "dates": "August 2018 – October 2021",
-      "description": "Developing GomuGomu, a SaaS platform designed as a comprehensive wallet for One Piece TCG players. The platform allows users to manage their card collections, track values, and operate as a marketplace.",
+      "description": "GomuGomuu is an organization focused on building projects around the One Piece universe, creating a connected ecosystem. It includes key projects like *Merry*, a Django-based API backend that now also incorporates the functionalities of *ope-ope* for card recognition, *olop-price-scraping*, a service for tracking OPTCG exchange rates, and *nomi-nomi*, a React Native app for One Piece card identification and deck building. GomuGomuu promotes collaboration and welcomes contributions to grow and enhance its projects.",
       "instagram": null,
       "github": "https://github.com/GomuGomuu",
       "tags": [
         "Python",
         "Django",
-        "OpenCV2",
-        "NumPy",
+        "TypeScript",
+        "React Native",
+        "Tesseract OCR",
+        "Docker",
         "Selenium",
         "Beautiful Soup",
-        "Tesseract OCR",
-        "Docker"
+        "Gemini"
       ],
       "order_id": 2,
       "project_url": "https://github.com/GomuGomuu",
-      "thumbnail": "https://avatars.githubusercontent.com/u/169268292?s=400"
-    },
-    {
-      "name": "CBDC Indonesia’s Central Bank",
-      "dates": "2023",
-      "description": "Worked to the Indonesia’s Central Bank challenge in a partnership with eCurrency and ANZ bank to simulate a CBDC in a public network",
-      "instagram": null,
-      "github": "",
-      "tags": [
-        "Python",
-        "Django",
-        "Stellar",
-        "Docker",
-        "Blockchain",
-        "Cryptocurrency"
-      ],
-      "order_id": 4,
-      "project_url": "https://cheesecakelabs.com/blog/br/cheesecake-labs-amplia-seus-servicos-voltados-para-blockchain/",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.png"
     },
     {
       "name": "Real Digital (Stablecoin)",
@@ -251,129 +252,48 @@
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
     },
     {
-      "name": "Portfolio",
-      "dates": "In progress",
-      "description": "My personal portfolio project built with React and TypeScript, using Tailwind CSS for styling. To practice my skills and showcase my projects.",
-      "instagram": null,
-      "github": "https://github.com/VStahelin/portfolio",
-      "tags": ["React", "TypeScript", "Tailwind"],
-      "order_id": 5,
-      "project_url": "https://github.com/VStahelin/portfolio",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/react-tailwind-css-logo-post.png"
-    },
-    {
-      "name": "CMS Portfolio",
-      "dates": "In progress",
-      "description": "Repository that serves as a CMS, which also includes an automated system to generate and update a file map of static resources, including images and structured data, hosted on GitHub Pages.",
-      "instagram": null,
-      "github": "https://github.com/VStahelin/cms-portfolio",
-      "tags": ["GitHub Actions", "Python"],
-      "order_id": 6,
-      "project_url": "https://github.com/VStahelin/cms-portfolio",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/GitHub-Logo.svg"
-    },
-
-    {
-      "name": "OLOP Price Scraping",
-      "dates": "In progress",
-      "description": "Web scraper for OLOP site, merging common scraping tactics with Selenium and Beautiful Soup with computer vision to collect card values, all served through a Flask API.",
-      "instagram": null,
-      "github": "https://github.com/GomuGomuu/olop-price-scraping",
-      "tags": [
-        "Web Scraping",
-        "Python",
-        "Flask",
-        "Selenium",
-        "Beautiful Soup",
-        "Docker",
-        "PyTesseract OCR"
-      ],
-      "order_id": 7,
-      "project_url": "https://github.com/GomuGomuu/olop-price-scraping",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/web-scraping-with-selenium-and-python_banner_light.svg"
-    },
-    {
-      "name": "LOL Live Team Companion",
-      "dates": "In progress",
-      "description": "Little project to monitor League of Legends client and server live data to send everything to a shared dashboard.",
-      "instagram": null,
-      "github": "https://github.com/VStahelin/lol-live-team-companion",
-      "tags": [
-        "Python",
-        "League of Legends",
-        "Monitoring",
-        "FastAPI",
-        "Tailwind",
-        "Next.js",
-        "SEE",
-        "Docker",
-        "MQTT"
-      ],
-      "order_id": 8,
-      "project_url": "https://github.com/VStahelin/lol-live-team-companion",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/lol.svg"
-    },
-    {
-      "name": "Bizarre Correlations",
-      "dates": "April 2024",
-      "description": "This is a project to explore the concept of bizarre correlations. The idea is to find correlations between two variables that are not related at all. The project is based on the Spurious Correlations website. Basic is a scraper that gets data from the Spurious Correlations website and saves i an key-value store.",
-      "instagram": null,
-      "github": "https://github.com/VStahelin/bizarre-correlations",
-      "tags": [
-        "Python",
-        "Beautiful Soup",
-        "Web Scraping",
-        "Matplotlib",
-        "PicleDB",
-        "Jupyter"
-      ],
-      "order_id": 9,
-      "project_url": "https://github.com/VStahelin/bizarre-correlations",
-      "thumbnail": "https://raw.githubusercontent.com/VStahelin/bizarre-correlations/refs/heads/main/imgs/plot1.png"
-    },
-    {
-      "name": "Tcg Card Recognition",
-      "dates": "January 2024",
-      "description": "This project is a proof of concept to recognize TCG cards using Dhash and OpenCV2.",
-      "instagram": null,
-      "github": "https://github.com/VStahelin/tcg-card-recognition",
-      "tags": ["Python", "Dhash", "OpenCV2", "NumPy"],
-      "order_id": 10,
-      "project_url": "https://github.com/VStahelin/tcg-card-recognition",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/tcg_card_recognition.jpg"
-    },
-    {
-      "name": "Hermes",
-      "dates": "2022",
-      "description": "The proposal is to convert Stellar-SDK error responses into something more human-readable and add more context to multi-transaction operations.",
-      "instagram": null,
-      "github": "https://github.com/VStahelin/Hermes",
-      "tags": ["Python", "Stellar", "Blockchain", "Cryptocurrency"],
-      "order_id": 11,
-      "project_url": "https://github.com/VStahelin/Hermes",
-      "thumbnail": "https://user-images.githubusercontent.com/42194516/176932469-4a38d90d-074c-44bc-ab3d-ef9e577e2263.png"
-    },
-    {
-      "name": "Eurocontro - Remote Monitoring System (RMS)",
-      "dates": "2018",
-      "description": "Develop the IIoT system for remote telemetry and control of industrial equipment over than 170 industrial plants in Brazil. Developed the system using Python for the device firmware and interfacing with the MQTT protocol and AWS IoT Core, Lambda, and DynamoDB for the cloud infrastructure.",
+      "name": "CBDC Indonesia’s Central Bank",
+      "dates": "2023",
+      "description": "Worked to the Indonesia’s Central Bank challenge in a partnership with eCurrency and ANZ bank to simulate a CBDC in a public network",
       "instagram": null,
       "github": "",
       "tags": [
         "Python",
-        "MQTT",
-        "AWS",
-        "IoT",
-        "Raspberry Pi",
-        "Java",
-        "Spring Boot",
-        "Grafana",
-        "Prometheus",
-        "InfluxDB"
+        "Django",
+        "Stellar",
+        "Docker",
+        "Blockchain",
+        "Cryptocurrency"
       ],
-      "order_id": 12,
-      "project_url": "https://euronutri.com.br/en/eurocontrol",
-      "thumbnail": "https://euronutri.com.br/assets/logo-44b440cbc4f4da8196d3594b2d7977d353b684d599d147a71157f6988e269702.png"
+      "order_id": 4,
+      "project_url": "https://cheesecakelabs.com/blog/br/cheesecake-labs-amplia-seus-servicos-voltados-para-blockchain/",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
+    },
+    {
+      "description": "Nomi-Nomi is a React Native app that serves as an interface for the backend of Merry. It allows users to quickly identify One Piece cards by taking a photo, with the image processing handled by the backend. The app provides detailed card information and also enables users to build their own vault of cards and test deck builds. It connects seamlessly to the Merry server, offering a smooth experience for card recognition, exploration, and deck management.",
+      "dates": "2024",
+      "name": "Nomi Nomi",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/nomi-nomi.png",
+      "project_url": "https://github.com/GomuGomuu/nomi-nomi",
+      "order_id": 6,
+      "tags": [
+        "React Native",
+        "TypeScript",
+        "Expo"
+      ]
+    },
+    {
+      "name": "Zarpo",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/C4D0BAQFJV-mwBl953w/company-logo_200_200/company-logo_200_200/0/1636121363722/zarpo_logo?e=1740614400&v=beta&t=zVKWYifRAD0pjnkZMpBChXLGeR425UzPkiEfn_ljYlY",
+      "project_url": "https://www.zarpo.com.br/",
+      "description": "The platform is a Django-based e-commerce platform that integrates with various APIs to provide a seamless booking experience for users. It connects with hotel providers like Omnibees, payment APIs like PagBank, and air booking consolidators like Envision.",
+      "tags": [
+        "Python",
+        "Django",
+        "Docker"
+      ],
+      "dates": "2023 ~ Present",
+      "order_id": 7
     }
   ],
   "stacks": [

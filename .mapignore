@@ -9,3 +9,4 @@ build/
 .github/
 .idea
 .gitignore
+profile_manager
