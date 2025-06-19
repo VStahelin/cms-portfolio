@@ -1,9 +1,9 @@
 {
   "about_me": {
     "name": "Vitor Stähelin",
-    "title": "Full-Stack Engineer",
-    "summary": "I'm a Full-Stack Developer with over 6 years of experience working across various domains and technologies. I started my career specializing in Python, creating scalable and efficient solutions for different applications. Over the years, I've expanded my skill set to include JavaScript frameworks like React, Gatsby, and React Native. 💻🚀\n Currently, I focus on developing innovative applications, integrating travel and payment APIs. I love exploring new technologies and enjoy working on various quirky and unconventional projects in my free time. 🎨✨\n Outside of the computer, I'm passionate about organizing technology events and engaging with the community. I also love outdoor activities, especially mountain biking! 🚴‍♂️🌲",
-    "short_summary": "Full-Stack Developer with 6+ years of experience in Python, JavaScript, and frameworks like Django and React. Skilled in building scalable solutions, API integrations, and payment systems. Background in blockchain POCs and IoT/embedded systems.",
+    "title": "Software Engineer",
+    "summary": "I'm a Software Engineer with over 7 years of experience working across various domains and technologies. I began my journey specializing in Python, building scalable and efficient solutions for diverse applications. Over time, I expanded into frontend frameworks like React, Gatsby, and React Native, and today I'm also working with Go.\n\nCurrently, I’m part of the Observability team at Mercado Livre, where I build and maintain systems that monitor applications handling millions of requests per minute. My work focuses on high-availability infrastructure, metrics, traces, and performance monitoring using tools like OpenTelemetry and BigQuery.\n\nI’m passionate about creating innovative and unconventional side projects, especially those involving travel tech, games, and community tools. Outside of tech, I love organizing open source events, connecting with the developer community, and enjoying mountain biking outdoors! 🚴‍♂️🌲",
+    "short_summary": "Software Engineer with 7+ years of experience in Python, Go, and JavaScript. Specialized in high-availability systems, observability, and API integrations. Background in scalable backend services, payment systems, blockchain POCs, and IoT solutions.",
     "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/profile_photo_2.jpg",
     "stack_proficiency": [
       {
@@ -15,11 +15,6 @@
         "name": "Django",
         "years": 4,
         "level": "Advanced"
-      },
-      {
-        "name": "JavaScript",
-        "years": 2,
-        "level": "Intermediate"
       },
       {
         "name": "TypeScript",
@@ -35,6 +30,11 @@
         "name": "AWS services",
         "years": 3,
         "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "years": 1,
+        "level": "Beginner"
       }
     ],
     "contact": {
@@ -46,43 +46,27 @@
     "certifications": [
       {
         "name": "Django Certification - Alura",
-        "key_words": [
-          "Django",
-          "Python",
-          "TDD",
-          "Pytest"
-        ],
+        "key_words": ["Django", "Python", "TDD", "Pytest"],
         "link": "https://cursos.alura.com.br/degree/certificate/b1a3f390-6e3e-434f-b5b5-a119c9fcb1a8",
-        "date": "2021-07-01"
+        "date": "01-07-2021"
       },
       {
         "name": "Python Certification - Alura",
-        "key_words": [
-          "Python",
-          "Pytest"
-        ],
+        "key_words": ["Python", "Pytest"],
         "link": "https://cursos.alura.com.br/degree/certificate/204d2140-88f6-4d66-8202-b3dceb357c56",
-        "date": "2020-05-01"
+        "date": "01-05-2020"
       },
       {
         "name": "TypeScript Certification - Alura",
-        "key_words": [
-          "TypeScript",
-          "JavaScript",
-          "Node.Js"
-        ],
+        "key_words": ["TypeScript", "JavaScript", "Node.Js"],
         "link": "https://cursos.alura.com.br/degree/certificate/15a20fb3-589c-4346-8836-484f0fa0da65",
-        "date": "2022-07-01"
+        "date": "01-07-2022"
       },
       {
         "name": "Raspberry Pi Certification - Alura",
-        "key_words": [
-          "Raspberry Pi",
-          "Iot",
-          "Python"
-        ],
+        "key_words": ["Raspberry Pi", "Iot", "Python"],
         "link": "https://cursos.alura.com.br/degree/certificate/82dcb31d-1733-4bf3-b80b-80cd68d2ce0f",
-        "date": "2020-07-01"
+        "date": "01-07-2020"
       },
       {
         "name": "Django REST Framework Certification - Alura",
@@ -108,14 +92,12 @@
       {
         "degree": "Technician in Infrastructure and Programming",
         "institution": "SENAI/SC",
-        "graduation_date": "Dec 2017",
-        "status": "Finished"
+        "graduation_date": "Dec 2017"
       },
       {
         "degree": "Technician in General Computer Programming",
         "institution": "SENAI/SC",
-        "graduation_date": "Dec 2015",
-        "status": "Finished"
+        "graduation_date": "Dec 2015"
       }
     ],
     "soft_skills": [
@@ -129,10 +111,33 @@
   },
   "professional_experience": [
     {
+      "title": "Software Engineer – Observability Team",
+      "company": "Mercado Livre",
+      "location": "São Paulo, SP",
+      "dates": "June 2025 – Present",
+      "responsibilities": [
+        "Developing and maintaining observability solutions for internal services, focusing on metrics, logs, and traces to improve visibility and reliability across the platform.",
+        "Working with Go and Python to build high-performance services integrated with Mercado Livre’s internal platform, Fury.",
+        "Integrating and scaling observability tools using OpenTelemetry (OTel), BigQuery, and internal KVS for custom data pipelines."
+      ],
+      "tags": [
+        "Go",
+        "Python",
+        "OpenTelemetry",
+        "Fury",
+        "BigQuery",
+        "KVS",
+        "Observability",
+        "Monitoring",
+        "Metrics"
+      ],
+      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/meli.png"
+    },
+    {
       "title": "Senior Full-Stack Software Developer",
       "company": "Zarpo",
       "location": "São Paulo, SP",
-      "dates": "April 2023 – Present",
+      "dates": "Jan 2023 – June 2025",
       "responsibilities": [
         "Develop and maintain the new OTA platform using Django with Python and Django REST Framework (DRF).",
         "Integrate APIs from hotel providers like Omnibees, payment APIs like PagBank, and the consolidating airline booking API Envision.",
@@ -146,7 +151,7 @@
         "AWS services",
         "People Management"
       ],
-      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/zarpo_logo.jpeg"
+      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/zarpo_logo.png"
     },
     {
       "title": "Full-Stack Software Engineer",
@@ -169,7 +174,7 @@
         "Cryptocurrency",
         "AWS services"
       ],
-      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/cheesecake_labs_logo.jpeg"
+      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/cheesecake_labs_logo.png"
     },
     {
       "title": "Full-Stack Software Developer",
@@ -190,110 +195,146 @@
         "AWS services",
         "Raspberry Pi"
       ],
-      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/eurotec_nutrition_brasil_logo.jpeg"
+      "profile_photo_url": "https://vstahelin.github.io/cms-portfolio/images/eurotec.png"
     }
   ],
   "projects": [
     {
-      "name": "whiteStone_dev",
-      "dates": "August 2018 – October 2021",
-      "description": "Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palhoça, that meets periodically to discuss technology trends. Each season of our meetings focuses on different topics aimed at sharing knowledge, networking, and exchanging experiences. The sessions are recorded and posted on our blog, providing access to those who couldn't attend.",
+      "name": "whiteStone_dev Community",
+      "dates": "August 2018 – Present",
+      "description": "Co-founded whiteStone_dev, an open source tech community in Pedra Branca - Palhoça (Florianópolis area). We organize free and inclusive in-person events with curated tech talks, publish blog posts, and maintain open source projects. Talks are recorded and shared on our site. We're supported by local devs and companies who believe in building knowledge together.",
       "instagram": "@whitestonedev",
-      "github": null,
+      "github": "https://github.com/whitestonedev",
       "tags": [
         "Meetup",
-        "Technology",
-        "Networking",
-        "Knowledge Sharing",
+        "Open Source",
         "Community",
-        "Project Management"
+        "Floripa",
+        "Tech Events",
+        "Blog"
       ],
       "order_id": 1,
-      "project_url": "https://instagram.com/whitestonedev",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/white_stone_dev_logo_circle.png"
+      "project_url": "https://whitestonedev.com.br/",
+      "thumbnail": "https://statics.whitestonedev.com.br/site/wsd_logo.png"
     },
     {
-      "name": "GomuGomuu Org",
-      "dates": "August 2018 – October 2021",
-      "description": "GomuGomuu is an organization focused on building projects around the One Piece universe, creating a connected ecosystem. It includes key projects like *Merry*, a Django-based API backend that now also incorporates the functionalities of *ope-ope* for card recognition, *olop-price-scraping*, a service for tracking OPTCG exchange rates, and *nomi-nomi*, a React Native app for One Piece card identification and deck building. GomuGomuu promotes collaboration and welcomes contributions to grow and enhance its projects.",
-      "instagram": null,
+      "name": "Zarpo OTA Platform",
+      "dates": "2020 – 2023",
+      "description": "Worked on the development of Zarpo’s e-commerce platform using Django and DRF. Integrated with hotel APIs (Omnibees), air consolidators (Envision), and payment gateways (PagBank). Built a custom CMS and infrastructure on AWS.",
+      "instagram": "",
+      "github": "",
+      "tags": ["Django", "API", "AWS", "TravelTech", "Backend", "Python"],
+      "order_id": 2,
+      "project_url": "https://www.zarpo.com.br/",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/zarpo_logo.png"
+    },
+    {
+      "name": "whiteStone_dev Landing Page",
+      "dates": "2024 – Present",
+      "description": "Landing page for the whiteStone_dev community, built with React, Vite, and TypeScript. Features MDX-based blog posts, events, open source projects, and sponsor showcases. Fully static and deployed via GitHub Pages.",
+      "instagram": "@whitestonedev",
+      "github": "https://github.com/whitestonedev/landing-page-v2",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Open Source",
+        "Static Site",
+        "MDX",
+        "Community"
+      ],
+      "order_id": 3,
+      "project_url": "https://whitestonedev.com.br/",
+      "thumbnail": "https://statics.whitestonedev.com.br/site/wsd_logo.png"
+    },
+
+    {
+      "name": "Calendario.tech",
+      "dates": "2024 – Present",
+      "description": "Open source calendar to centralize Brazilian tech events. Built with React and TypeScript, contributors can add and maintain events via pull requests. Helps developers discover and share community-driven events and CFPs.",
+      "instagram": "@whitestonedev",
+      "github": "https://github.com/whitestonedev/calendario-tech",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Events",
+        "Community",
+        "Calendar",
+        "Open Source"
+      ],
+      "order_id": 4,
+      "project_url": "https://calendario.tech/",
+      "thumbnail": "https://calendario.tech/img/logotipo.png"
+    },
+    {
+      "name": "Link Vault",
+      "dates": "2024 – Present",
+      "description": "Static link-in-bio builder with bot protection using Cloudflare Turnstile. Built with React, TypeScript, TailwindCSS and ShadCN. Designed for creators and communities to share curated links with security and style.",
+      "instagram": "@whitestonedev",
+      "github": "https://github.com/whitestonedev/link-vault",
+      "tags": [
+        "Link in Bio",
+        "React",
+        "Cloudflare Turnstile",
+        "Open Source",
+        "Static Site"
+      ],
+      "order_id": 5,
+      "project_url": "https://link.whitestonedev.com.br/",
+      "thumbnail": "https://statics.whitestonedev.com.br/site/links_logo.png"
+    },
+    {
+      "name": "Merry - One Piece Card Game",
+      "dates": "2023 – Present",
+      "description": "Django-based API for the One Piece Card Game with card recognition (Gemini AI), price tracking, and upcoming features like deck building and community hub. Includes Docker and Makefile setup for easy dev and deploy.",
+      "instagram": "",
+      "github": "https://github.com/GomuGomuu/merry",
+      "tags": [
+        "Django",
+        "Gemini",
+        "AI",
+        "Machine Learning",
+        "Docker",
+        "Card Game"
+      ],
+      "order_id": 6,
+      "project_url": "https://github.com/GomuGomuu/merry",
+      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/merry.png"
+    },
+    {
+      "name": "GomuGomuu Ecosystem",
+      "dates": "2023 – Present",
+      "description": "An ecosystem of tools around the One Piece card game: Merry (API backend), Olop (price scraping), and Nomi-Nomi (React Native app for deck building and card recognition). Open to community collaboration.",
+      "instagram": "",
       "github": "https://github.com/GomuGomuu",
       "tags": [
-        "Python",
-        "Django",
-        "TypeScript",
         "React Native",
-        "Tesseract OCR",
+        "Web Scraping",
         "Docker",
-        "Selenium",
-        "Beautiful Soup",
-        "Gemini"
+        "Python",
+        "Card Game",
+        "Community"
       ],
-      "order_id": 2,
+      "order_id": 7,
       "project_url": "https://github.com/GomuGomuu",
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.png"
     },
     {
-      "name": "Real Digital (Stablecoin)",
-      "dates": "2022",
-      "description": "Worked to The Brazilian Central Bank LIFT challenge in a partnership with Mercado Bitcoin to present a pilot application for a DvP(Delivery versus Payment) use case that combined a precatory investment token and a wrapped version of the digital Real, and all on Stellar's network",
-      "instagram": null,
+      "name": "Real Digital - LIFT Challenge",
+      "dates": "2023",
+      "description": "Pilot project for the Brazilian Central Bank’s LIFT challenge with Mercado Bitcoin. Implemented a stablecoin on Stellar with Django, Docker, and blockchain tech for Delivery vs Payment (DvP) of investment tokens.",
+      "instagram": "",
       "github": "",
       "tags": [
-        "Python",
+        "Blockchain",
         "Django",
         "Stellar",
+        "Stablecoin",
         "Docker",
-        "Blockchain",
-        "Cryptocurrency"
+        "Fintech"
       ],
-      "order_id": 3,
+      "order_id": 8,
       "project_url": "https://valor.globo.com/financas/criptomoedas/noticia/2023/02/24/blockchain-publica-passa-em-teste-do-real-digital.ghtml",
       "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
-    },
-    {
-      "name": "CBDC Indonesia’s Central Bank",
-      "dates": "2023",
-      "description": "Worked to the Indonesia’s Central Bank challenge in a partnership with eCurrency and ANZ bank to simulate a CBDC in a public network",
-      "instagram": null,
-      "github": "",
-      "tags": [
-        "Python",
-        "Django",
-        "Stellar",
-        "Docker",
-        "Blockchain",
-        "Cryptocurrency"
-      ],
-      "order_id": 4,
-      "project_url": "https://cheesecakelabs.com/blog/br/cheesecake-labs-amplia-seus-servicos-voltados-para-blockchain/",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/stellar.png"
-    },
-    {
-      "description": "Nomi-Nomi is a React Native app that serves as an interface for the backend of Merry. It allows users to quickly identify One Piece cards by taking a photo, with the image processing handled by the backend. The app provides detailed card information and also enables users to build their own vault of cards and test deck builds. It connects seamlessly to the Merry server, offering a smooth experience for card recognition, exploration, and deck management.",
-      "dates": "2024",
-      "name": "Nomi Nomi",
-      "thumbnail": "https://vstahelin.github.io/cms-portfolio/images/nomi-nomi.png",
-      "project_url": "https://github.com/GomuGomuu/nomi-nomi",
-      "order_id": 6,
-      "tags": [
-        "React Native",
-        "TypeScript",
-        "Expo"
-      ]
-    },
-    {
-      "name": "Zarpo",
-      "thumbnail": "https://media.licdn.com/dms/image/v2/C4D0BAQFJV-mwBl953w/company-logo_200_200/company-logo_200_200/0/1636121363722/zarpo_logo?e=1740614400&v=beta&t=zVKWYifRAD0pjnkZMpBChXLGeR425UzPkiEfn_ljYlY",
-      "project_url": "https://www.zarpo.com.br/",
-      "description": "The platform is a Django-based e-commerce platform that integrates with various APIs to provide a seamless booking experience for users. It connects with hotel providers like Omnibees, payment APIs like PagBank, and air booking consolidators like Envision.",
-      "tags": [
-        "Python",
-        "Django",
-        "Docker"
-      ],
-      "dates": "2023 ~ Present",
-      "order_id": 7
     }
   ],
   "stacks": [
