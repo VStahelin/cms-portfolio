@@ -1,9 +1,84 @@
 [
   {
+    "title": "whiteStone_dev",
+    "tags": [
+      "Community",
+      "Meetup",
+      "Open Source",
+      "Tech Events",
+      "Floripa",
+      "Blog",
+      "MDX"
+    ],
+    "short_description": "An open source tech community based in Florianópolis, organizing inclusive and in-person meetups with talks, blog posts, and open source projects.",
+    "description": "whiteStone_dev is an open source technology community co-founded in Pedra Branca – Palhoça (Florianópolis area). We organize free and inclusive in-person events focused on practical, real-world tech discussions. Our meetups feature curated talks on development, infrastructure, design, Web3, AI, and more. All talks are recorded and published on our blog. The community also maintains a collaborative website with blog posts, event listings, and featured open source projects. We're proudly supported by local companies and developers who believe in building knowledge together.",
+    "is_highlighted": true,
+    "image_url": "https://statics.whitestonedev.com.br/site/wsd_logo.png",
+    "more_info_link": "https://whitestonedev.com.br/"
+  },
+  {
+    "title": "Landing Page V2 - whiteStone_dev",
+    "tags": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "TailwindCSS",
+      "MDX",
+      "Open Source"
+    ],
+    "short_description": "Open source landing page for the whiteStone_dev community, featuring blog support, events, projects, dark mode, and static deployment via GitHub Pages.",
+    "description": "This project is the second version of the official landing page for the whiteStone_dev community. Built with React, Vite, and TypeScript, it is designed to serve as a collaborative and informative website, featuring MDX-based blog posts, a list of upcoming events and open source projects, as well as sections for sponsors and authors. The site is lightweight, modern, accessible, and fully responsive, with light/dark mode support and static content hosted on GitHub Pages. The codebase is modular and well-structured, making it easy for the community to contribute.",
+    "is_highlighted": true,
+    "image_url": "https://statics.whitestonedev.com.br/site/wsd_logo.png",
+    "more_info_link": "https://whitestonedev.com.br/"
+  },
+  {
+    "title": "Calendario.tech",
+    "tags": [
+      "React",
+      "TypeScript",
+      "Open Source",
+      "Event Management",
+      "TailwindCSS",
+      "Community"
+    ],
+    "short_description": "A collaborative platform to centralize tech events across Brazil, making it easy to find and share community-driven meetups, conferences, and calls for papers.",
+    "description": "Calendario.tech is an open source initiative by the whiteStone_dev community designed to centralize and promote tech events happening in Brazil. Built with React and TypeScript, the platform aggregates meetups, conferences, workshops, and CFPs into one unified calendar. It features filters, responsive design, and JSON/MDX-based content, allowing contributors to easily submit and maintain events via pull requests. The goal is to empower local communities by increasing visibility and accessibility of developer-focused gatherings.",
+    "is_highlighted": true,
+    "image_url": "https://calendario.tech/img/logotipo.png",
+    "more_info_link": "https://calendario.tech/"
+  },
+  {
+    "title": "Zarpo OTA Platform",
+    "tags": ["Django", "API", "Python", "AWS"],
+    "short_description": "The platform is a Django-based e-commerce platform that integrates with various APIs to provide a seamless booking experience for users. It connects with hotel providers like Omnibees, payment APIs like PagBank, and air booking consolidators like Envision.",
+    "description": "Zarpo Viagens is an OTA (Online Travel Agency) platform focused on hotel and travel package bookings. I worked on the development since the scratch of the project, building the backend with Django and Django REST Framework (DRF). The platform integrates with various APIs to provide a seamless booking experience for users, connecting with hotel providers like Omnibees, payment APIs like PagBank, and air booking consolidators like Envision. The project also involved the development of a custom CMS for managing content and promotions on the platform.",
+    "is_highlighted": true,
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/zarpo_logo.png",
+    "more_info_link": "https://www.zarpo.com.br/"
+  },
+  {
+    "title": "Link Vault",
+    "tags": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "TailwindCSS",
+      "ShadCN",
+      "Static Site",
+      "Cloudflare Turnstile"
+    ],
+    "short_description": "A simple and elegant link-in-bio page builder, designed for creators and communities who want full control, customization, and bot protection.",
+    "description": "Link Vault is a modern, static link-in-bio tool built with React, TypeScript, Vite, and TailwindCSS, using the ShadCN UI component library. One of the core reasons behind its creation was the need to protect shared links from abusive bot traffic — and for that, the project integrates Cloudflare Turnstile CAPTCHA, ensuring legitimate access. Ideal for creators, developers, and communities, Link Vault provides a minimalist and responsive interface that is fully open source and deployable via GitHub Pages or any static host.",
+    "is_highlighted": true,
+    "image_url": "https://statics.whitestonedev.com.br/site/links_logo.png",
+    "more_info_link": "https://link.whitestonedev.com.br/"
+  },
+  {
     "title": "Gomu Gomu",
     "short_description": "GomuGomuu is an organization building a connected ecosystem around the One Piece universe. Key projects include Merry, a Django API with card recognition, olop-price-scraping for tracking OPTCG exchange rates, and nomi-nomi, a React Native app for card identification and deck building. GomuGomuu encourages collaboration to grow and improve its projects.",
     "description": "GomuGomuu is an organization focused on building projects around the One Piece universe, creating a connected ecosystem. It includes key projects like Merry, a Django-based API backend that now also incorporates the functionalities of Ope Ope for card recognition, Olop Price Scraping, a service for tracking OPTCG exchange rates, and Nomi Nomi, a React Native app for One Piece card identification and deck building. GomuGomuu promotes collaboration and welcomes contributions to grow and enhance its projects.",
-    "is_highlighted": true,
+    "is_highlighted": false,
     "image_url": "https://vstahelin.github.io/cms-portfolio/images/gomu-gomu.png",
     "tags": [
       "Gemini",
@@ -49,24 +124,6 @@
     "is_highlighted": false,
     "image_url": "https://vstahelin.github.io/cms-portfolio/images/nomi-nomi.png",
     "more_info_link": "https://github.com/GomuGomuu/nomi-nomi"
-  },
-  {
-    "title": "Zarpo Platform",
-    "tags": ["Django", "API", "Python", "AWS"],
-    "short_description": "The platform is a Django-based e-commerce platform that integrates with various APIs to provide a seamless booking experience for users. It connects with hotel providers like Omnibees, payment APIs like PagBank, and air booking consolidators like Envision.",
-    "description": "Zarpo Viagens is an OTA (Online Travel Agency) platform focused on hotel and travel package bookings. I worked on the development since the scratch of the project, building the backend with Django and Django REST Framework (DRF). The platform integrates with various APIs to provide a seamless booking experience for users, connecting with hotel providers like Omnibees, payment APIs like PagBank, and air booking consolidators like Envision. The project also involved the development of a custom CMS for managing content and promotions on the platform.",
-    "is_highlighted": true,
-    "image_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFJV-mwBl953w/company-logo_200_200/company-logo_200_200/0/1636121363722/zarpo_logo?e=1740614400&v=beta&t=zVKWYifRAD0pjnkZMpBChXLGeR425UzPkiEfn_ljYlY",
-    "more_info_link": "https://www.zarpo.com.br/"
-  },
-  {
-    "title": "whiteStone_dev",
-    "tags": ["Meetup"],
-    "short_description": "Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palho\u00e7a, that meets periodically to discuss technology trends.",
-    "description": "Co-founded whiteStone_dev, a group of developers in Pedra Branca - Palho\u00e7a, that meets periodically to discuss technology trends. Each season of our meetings focuses on different topics aimed at sharing knowledge, networking, and exchanging experiences. The sessions are recorded and posted on our blog, providing access to those who couldn't attend.",
-    "is_highlighted": false,
-    "image_url": "https://vstahelin.github.io/cms-portfolio/images/white_stone_dev_logo_circle.png",
-    "more_info_link": "https://instagram.com/whitestonedev"
   },
   {
     "title": "Big Mind Assistant",
@@ -149,15 +206,6 @@
     "more_info_link": "https://github.com/VStahelin/tcg-card-recognition"
   },
   {
-    "title": "Istepo Calendar (Initial Stage)",
-    "tags": ["Typescript", "React", "Node.js", "Express", "Versel", "Monorepo"],
-    "short_description": "A collaborative calendar designed to centralize tech event dates and information in one place.",
-    "description": "A collaborative calendar designed to centralize tech event dates and information in one place. With so many tech events happening, this tool decentralizes the responsibility of updating the calendar, making it easier for everyone to stay informed. Built as a monorepo, it includes a React front-end hosted on GitHub Pages and an Express API hosted on Vercel.",
-    "is_highlighted": false,
-    "image_url": "https://vstahelin.github.io/cms-portfolio/images/calendar.png",
-    "more_info_link": "https://github.com/VStahelin/calendario-istepo"
-  },
-  {
     "title": "React + Vite + Tailwind + TS Template",
     "tags": ["Typescript", "React", "Tailwind", "Vite"],
     "short_description": "A boilerplate template for quickly starting React projects with Vite, Tailwind CSS, and TypeScript.",
@@ -225,7 +273,7 @@
     "short_description": "IIoT system for telemetry and control of industrial equipment across 170+ plants in Brazil.",
     "description": "Eurocontro's RMS is an IIoT system designed for the remote telemetry and control of industrial equipment in over 170 plants across Brazil. The system uses Python for device firmware, MQTT for communication, and AWS IoT Core, Lambda, and DynamoDB for cloud infrastructure. The data collected is visualized through Grafana and Prometheus for real-time monitoring.",
     "is_highlighted": false,
-    "image_url": "https://euronutri.com.br/assets/logo-44b440cbc4f4da8196d3594b2d7977d353b684d599d147a71157f6988e269702.png",
+    "image_url": "https://vstahelin.github.io/cms-portfolio/images/eurotec.png",
     "more_info_link": "https://euronutri.com.br/en/eurocontrol"
   }
 ]
